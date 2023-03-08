@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"]
+    },
+    {
+      "tag": "laptop details",
+      "patterns": ["how is your laptop?", "what is the status of the laptop?"]
+    }
+  ]
+}
