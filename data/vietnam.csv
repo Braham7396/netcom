@@ -1,0 +1,199 @@
+machine model,machine type,delivery date,delivery site,price,software version
+c02,router,8/3/2023,vietnam-city,519,sw303
+b02,smart switches,15/2/2023,vietnam-city,490,sw202
+b02,smart switches,3/01/2023,vietnam-city,451,sw202
+b01,smart switches,7/02/2023,vietnam-city,577,sw101
+c01,router,13/1/2023,vietnam-city,553,sw303
+b01,smart switches,14/3/2023,vietnam-city,438,sw303
+a02,smart switches,22/03/2023,vietnam-city,403,sw101
+c01,smart switches,18/03/2023,vietnam-city,511,sw101
+b02,router,12/2/2023,vietnam-city,498,sw202
+a02,router,26/01/2023,vietnam-city,468,sw303
+b02,smart switches,15/03/2023,vietnam-city,498,sw202
+c02,smart switches,13/1/2023,vietnam-city,534,sw101
+b01,router,26/1/2023,vietnam-city,550,sw202
+b02,router,30/03/2023,vietnam-city,420,sw101
+b01,smart switches,13/01/2023,vietnam-city,416,sw101
+c02,smart switches,9/3/2023,vietnam-city,415,sw303
+a01,smart switches,24/3/2023,vietnam-city,557,sw202
+c01,smart switches,31/01/2023,vietnam-city,408,sw202
+b01,router,13/02/2023,vietnam-city,553,sw101
+c02,router,1/1/2023,vietnam-city,486,sw303
+b01,router,4/2/2023,vietnam-city,522,sw303
+b01,router,19/2/2023,vietnam-city,414,sw101
+b01,smart switches,14/01/2023,vietnam-city,445,sw101
+a01,smart switches,7/03/2023,vietnam-city,416,sw202
+a02,smart switches,2/2/2023,vietnam-city,569,sw303
+a01,smart switches,26/1/2023,vietnam-city,565,sw303
+c02,router,3/2/2023,vietnam-city,449,sw202
+b02,router,9/3/2023,vietnam-city,553,sw101
+b01,router,11/1/2023,vietnam-city,498,sw303
+a01,smart switches,12/1/2023,vietnam-city,432,sw303
+a02,router,12/02/2023,vietnam-city,474,sw303
+a02,router,8/03/2023,vietnam-city,409,sw101
+c01,smart switches,5/2/2023,vietnam-city,586,sw303
+b01,router,20/2/2023,vietnam-city,446,sw101
+a02,smart switches,5/2/2023,vietnam-city,565,sw303
+b01,router,12/3/2023,vietnam-city,573,sw101
+a02,smart switches,14/03/2023,vietnam-city,409,sw101
+c01,smart switches,2/01/2023,vietnam-city,564,sw303
+c01,router,23/3/2023,vietnam-city,491,sw303
+b01,router,17/1/2023,vietnam-city,489,sw101
+a02,smart switches,25/2/2023,vietnam-city,445,sw303
+b01,router,18/2/2023,vietnam-city,415,sw202
+a01,router,17/1/2023,vietnam-city,496,sw202
+b02,router,27/3/2023,vietnam-city,521,sw303
+a01,smart switches,18/03/2023,vietnam-city,594,sw303
+a01,smart switches,18/1/2023,vietnam-city,539,sw303
+b01,smart switches,18/2/2023,vietnam-city,583,sw101
+a01,smart switches,12/03/2023,vietnam-city,468,sw202
+c01,smart switches,14/2/2023,vietnam-city,403,sw202
+a02,smart switches,17/2/2023,vietnam-city,563,sw101
+c01,router,10/3/2023,vietnam-city,464,sw303
+b02,router,29/3/2023,vietnam-city,414,sw101
+b02,smart switches,27/02/2023,vietnam-city,521,sw303
+b02,router,8/2/2023,vietnam-city,518,sw101
+c02,router,12/1/2023,vietnam-city,524,sw303
+a01,router,4/1/2023,vietnam-city,499,sw101
+c02,router,1/01/2023,vietnam-city,502,sw101
+c02,router,11/02/2023,vietnam-city,441,sw202
+b01,router,14/01/2023,vietnam-city,531,sw202
+a01,smart switches,10/02/2023,vietnam-city,415,sw303
+a01,smart switches,19/2/2023,vietnam-city,597,sw202
+a02,router,30/01/2023,vietnam-city,555,sw303
+c02,smart switches,6/01/2023,vietnam-city,500,sw101
+a01,router,7/03/2023,vietnam-city,445,sw101
+b01,smart switches,26/03/2023,vietnam-city,581,sw303
+a01,router,17/3/2023,vietnam-city,549,sw202
+b01,smart switches,20/3/2023,vietnam-city,507,sw101
+a02,router,28/3/2023,vietnam-city,450,sw101
+b02,smart switches,1/3/2023,vietnam-city,529,sw101
+b01,router,6/03/2023,vietnam-city,408,sw303
+c01,smart switches,13/02/2023,vietnam-city,411,sw303
+c02,smart switches,13/1/2023,vietnam-city,450,sw202
+a01,router,28/03/2023,vietnam-city,583,sw303
+a01,router,20/2/2023,vietnam-city,489,sw101
+b01,router,9/01/2023,vietnam-city,579,sw101
+b01,router,28/1/2023,vietnam-city,574,sw202
+b01,router,21/1/2023,vietnam-city,581,sw202
+c02,router,1/2/2023,vietnam-city,518,sw202
+a01,router,25/01/2023,vietnam-city,478,sw303
+b01,smart switches,15/1/2023,vietnam-city,572,sw303
+b01,smart switches,16/03/2023,vietnam-city,416,sw202
+a02,router,7/2/2023,vietnam-city,534,sw202
+c02,smart switches,18/01/2023,vietnam-city,532,sw202
+c01,smart switches,28/1/2023,vietnam-city,542,sw101
+a01,smart switches,26/02/2023,vietnam-city,474,sw101
+a02,router,22/01/2023,vietnam-city,567,sw303
+b02,router,25/2/2023,vietnam-city,564,sw303
+c02,router,20/2/2023,vietnam-city,592,sw101
+c01,router,8/01/2023,vietnam-city,582,sw101
+a01,router,6/03/2023,vietnam-city,491,sw202
+a01,router,22/02/2023,vietnam-city,492,sw101
+b01,smart switches,22/3/2023,vietnam-city,466,sw202
+a01,router,24/1/2023,vietnam-city,514,sw202
+c02,smart switches,19/1/2023,vietnam-city,429,sw303
+a02,smart switches,28/2/2023,vietnam-city,430,sw303
+a02,smart switches,2/2/2023,vietnam-city,481,sw303
+c01,smart switches,6/3/2023,vietnam-city,596,sw101
+c01,smart switches,21/01/2023,vietnam-city,580,sw303
+c01,router,8/2/2023,vietnam-city,482,sw202
+c01,router,10/02/2023,vietnam-city,562,sw202
+b02,router,21/2/2023,vietnam-city,503,sw101
+c01,router,8/03/2023,vietnam-city,536,sw101
+c02,router,23/2/2023,vietnam-city,424,sw303
+a02,router,29/03/2023,vietnam-city,523,sw303
+a01,smart switches,28/3/2023,vietnam-city,479,sw303
+c01,smart switches,11/01/2023,vietnam-city,417,sw202
+c01,router,6/1/2023,vietnam-city,583,sw202
+b02,router,18/01/2023,vietnam-city,439,sw202
+a02,router,12/01/2023,vietnam-city,413,sw101
+a02,smart switches,14/1/2023,vietnam-city,522,sw101
+b01,router,25/02/2023,vietnam-city,459,sw303
+c01,smart switches,31/01/2023,vietnam-city,564,sw303
+c02,smart switches,3/3/2023,vietnam-city,589,sw202
+b01,router,17/3/2023,vietnam-city,424,sw202
+c01,smart switches,8/01/2023,vietnam-city,416,sw303
+a02,smart switches,14/3/2023,vietnam-city,596,sw101
+c02,smart switches,28/2/2023,vietnam-city,423,sw303
+b02,router,10/2/2023,vietnam-city,410,sw101
+a02,router,22/3/2023,vietnam-city,419,sw202
+a01,router,31/02/2023,vietnam-city,400,sw101
+c01,smart switches,11/3/2023,vietnam-city,529,sw303
+b01,smart switches,10/01/2023,vietnam-city,477,sw303
+b02,smart switches,31/1/2023,vietnam-city,434,sw202
+a01,smart switches,31/01/2023,vietnam-city,414,sw101
+c01,smart switches,27/01/2023,vietnam-city,432,sw202
+a01,router,26/03/2023,vietnam-city,442,sw303
+b01,router,18/3/2023,vietnam-city,458,sw202
+c01,router,30/1/2023,vietnam-city,524,sw202
+a01,router,23/03/2023,vietnam-city,420,sw202
+c02,smart switches,7/1/2023,vietnam-city,448,sw303
+b01,router,2/01/2023,vietnam-city,522,sw303
+a01,router,11/2/2023,vietnam-city,532,sw202
+c02,router,1/02/2023,vietnam-city,410,sw303
+c01,smart switches,1/3/2023,vietnam-city,505,sw202
+c02,smart switches,14/1/2023,vietnam-city,474,sw303
+a02,router,11/3/2023,vietnam-city,445,sw101
+c01,router,21/03/2023,vietnam-city,529,sw101
+b02,smart switches,3/02/2023,vietnam-city,527,sw101
+c01,router,26/3/2023,vietnam-city,408,sw303
+a02,router,14/03/2023,vietnam-city,431,sw303
+c02,smart switches,1/03/2023,vietnam-city,558,sw202
+b02,router,28/2/2023,vietnam-city,441,sw202
+a01,smart switches,24/01/2023,vietnam-city,440,sw303
+b02,router,10/1/2023,vietnam-city,436,sw303
+b02,router,5/03/2023,vietnam-city,477,sw202
+a01,router,15/2/2023,vietnam-city,413,sw101
+a02,smart switches,10/03/2023,vietnam-city,487,sw202
+a01,router,15/03/2023,vietnam-city,567,sw202
+a02,smart switches,15/03/2023,vietnam-city,579,sw303
+a01,router,28/2/2023,vietnam-city,495,sw101
+a02,smart switches,12/02/2023,vietnam-city,568,sw101
+c01,router,25/1/2023,vietnam-city,429,sw202
+b01,smart switches,25/2/2023,vietnam-city,424,sw101
+a01,router,2/03/2023,vietnam-city,593,sw202
+c01,router,25/1/2023,vietnam-city,591,sw303
+b01,smart switches,4/2/2023,vietnam-city,404,sw303
+a01,smart switches,20/3/2023,vietnam-city,413,sw101
+b02,smart switches,20/3/2023,vietnam-city,564,sw303
+a01,router,5/2/2023,vietnam-city,582,sw101
+a02,smart switches,19/1/2023,vietnam-city,536,sw303
+b02,smart switches,24/2/2023,vietnam-city,579,sw101
+b02,router,16/02/2023,vietnam-city,411,sw202
+b02,smart switches,20/3/2023,vietnam-city,411,sw101
+c01,smart switches,19/02/2023,vietnam-city,404,sw303
+a01,smart switches,22/01/2023,vietnam-city,516,sw101
+b01,router,24/01/2023,vietnam-city,595,sw303
+b02,smart switches,12/03/2023,vietnam-city,422,sw303
+a02,router,25/3/2023,vietnam-city,437,sw101
+c01,smart switches,6/01/2023,vietnam-city,533,sw202
+c02,smart switches,1/3/2023,vietnam-city,499,sw101
+a02,smart switches,16/02/2023,vietnam-city,572,sw202
+b01,router,20/02/2023,vietnam-city,578,sw101
+b02,router,18/01/2023,vietnam-city,599,sw101
+c01,router,9/02/2023,vietnam-city,542,sw303
+c02,smart switches,31/03/2023,vietnam-city,461,sw303
+b02,router,9/1/2023,vietnam-city,442,sw101
+a02,smart switches,10/01/2023,vietnam-city,430,sw101
+b02,smart switches,11/03/2023,vietnam-city,596,sw202
+c01,smart switches,23/01/2023,vietnam-city,535,sw303
+b02,router,20/1/2023,vietnam-city,417,sw202
+a02,router,1/03/2023,vietnam-city,576,sw202
+b02,router,1/01/2023,vietnam-city,569,sw101
+b01,router,12/1/2023,vietnam-city,487,sw303
+a02,smart switches,28/2/2023,vietnam-city,527,sw303
+b01,smart switches,2/01/2023,vietnam-city,449,sw202
+b02,router,28/3/2023,vietnam-city,551,sw202
+c01,router,8/03/2023,vietnam-city,537,sw101
+b01,smart switches,7/02/2023,vietnam-city,541,sw202
+a01,router,29/02/2023,vietnam-city,467,sw202
+c02,router,21/1/2023,vietnam-city,509,sw202
+a02,router,26/2/2023,vietnam-city,491,sw202
+b01,smart switches,21/01/2023,vietnam-city,489,sw303
+b01,smart switches,17/2/2023,vietnam-city,581,sw202
+c01,router,10/02/2023,vietnam-city,559,sw202
+c01,smart switches,6/01/2023,vietnam-city,535,sw303
+b02,smart switches,6/01/2023,vietnam-city,558,sw202
+b01,smart switches,17/2/2023,vietnam-city,502,sw303
+a01,smart switches,30/1/2023,vietnam-city,450,sw303

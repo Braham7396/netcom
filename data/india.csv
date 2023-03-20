@@ -1,0 +1,208 @@
+machine model,machine type,delivery date,delivery site,price,software version
+a01,router,31/3/2023,vellore,498,sw303
+a01,router,1/1/2023,vit,582,sw202
+c01,router,27/2/2023,vit,588,sw101
+a02,smart switches,29/01/2023,vit,481,sw202
+b02,smart switches,27/1/2023,vit,432,sw202
+a01,router,6/3/2023,vit,543,sw202
+a02,smart switches,6/3/2023,vit,440,sw202
+b02,smart switches,20/2/2023,vit,461,sw101
+a01,router,4/01/2023,vit,472,sw202
+c01,router,3/3/2023,vellore,490,sw303
+c02,router,15/3/2023,vit,409,sw101
+b01,router,14/1/2023,vellore,515,sw101
+c01,smart switches,24/01/2023,vit,438,sw303
+a01,smart switches,19/2/2023,vit,462,sw303
+a01,router,17/2/2023,vit,558,sw101
+c02,router,5/03/2023,vellore,531,sw202
+c01,router,9/2/2023,vellore,505,sw202
+c01,router,16/3/2023,vit,528,sw303
+c02,smart switches,24/03/2023,vellore,404,sw202
+a01,router,8/01/2023,vit,525,sw101
+a01,router,12/03/2023,vellore,587,sw202
+b01,router,1/2/2023,vit,505,sw303
+c02,smart switches,18/2/2023,vit,416,sw101
+a02,smart switches,21/02/2023,vellore,441,sw202
+a01,router,4/03/2023,vit,590,sw303
+a01,router,17/02/2023,vit,510,sw303
+b01,router,30/01/2023,vit,427,sw101
+b02,smart switches,1/1/2023,vellore,497,sw202
+b02,router,21/01/2023,vit,584,sw202
+c02,smart switches,19/1/2023,vellore,487,sw101
+b01,smart switches,16/2/2023,vit,569,sw101
+b01,smart switches,22/01/2023,vellore,576,sw202
+c02,smart switches,29/03/2023,vellore,580,sw303
+b02,router,22/2/2023,vit,530,sw303
+c02,router,25/01/2023,vellore,588,sw202
+b01,smart switches,15/03/2023,vit,542,sw101
+c01,smart switches,4/02/2023,vit,468,sw303
+c02,router,18/02/2023,vellore,556,sw101
+a02,smart switches,28/03/2023,vellore,594,sw101
+b01,smart switches,27/03/2023,vellore,575,sw202
+a02,smart switches,24/03/2023,vellore,457,sw202
+b01,smart switches,22/03/2023,vellore,578,sw101
+b02,router,29/03/2023,vit,524,sw202
+c02,smart switches,27/02/2023,vellore,588,sw303
+a02,smart switches,21/01/2023,vit,522,sw101
+b02,smart switches,18/2/2023,vit,418,sw202
+a02,smart switches,11/2/2023,vellore,407,sw101
+c02,smart switches,1/02/2023,vellore,467,sw202
+c02,smart switches,24/3/2023,vellore,412,sw303
+a01,smart switches,7/2/2023,vellore,527,sw202
+b02,smart switches,19/03/2023,vit,584,sw303
+a01,smart switches,8/1/2023,vit,508,sw303
+b01,smart switches,29/02/2023,vit,502,sw202
+b01,router,24/02/2023,vit,467,sw101
+b01,router,21/2/2023,vellore,571,sw202
+a02,smart switches,6/1/2023,vit,493,sw303
+b02,router,4/01/2023,vellore,460,sw202
+a01,smart switches,6/2/2023,vellore,520,sw303
+b02,router,26/01/2023,vit,552,sw303
+a02,router,23/02/2023,vellore,594,sw303
+b02,smart switches,26/01/2023,vit,594,sw101
+b02,smart switches,8/1/2023,vellore,502,sw202
+c02,smart switches,23/2/2023,vellore,560,sw101
+a01,smart switches,30/3/2023,vellore,458,sw303
+b01,router,1/3/2023,vellore,483,sw202
+a02,smart switches,10/1/2023,vit,600,sw303
+c01,router,23/2/2023,vellore,546,sw303
+b01,smart switches,18/3/2023,vit,486,sw101
+c01,router,30/01/2023,vellore,515,sw101
+a01,smart switches,1/3/2023,vellore,424,sw101
+c02,router,11/03/2023,vit,497,sw101
+a02,router,16/1/2023,vellore,420,sw101
+c02,smart switches,9/02/2023,vit,435,sw303
+b01,smart switches,23/3/2023,vit,494,sw303
+c01,router,30/3/2023,vellore,492,sw101
+a02,smart switches,25/3/2023,vellore,423,sw303
+c01,router,17/03/2023,vit,442,sw202
+a02,router,9/2/2023,vellore,591,sw202
+c02,router,26/3/2023,vit,403,sw101
+c02,smart switches,28/1/2023,vit,491,sw303
+b01,smart switches,21/1/2023,vellore,445,sw303
+a02,router,16/3/2023,vellore,547,sw101
+b01,router,31/03/2023,vellore,497,sw101
+c01,smart switches,7/02/2023,vellore,566,sw303
+b02,router,12/2/2023,vellore,561,sw303
+b02,smart switches,9/3/2023,vit,422,sw202
+b02,router,14/3/2023,vit,530,sw101
+c01,router,27/01/2023,vit,593,sw101
+c02,smart switches,28/01/2023,vit,559,sw303
+b01,router,11/02/2023,vellore,582,sw202
+a02,router,27/01/2023,vit,516,sw202
+b02,smart switches,1/2/2023,vit,536,sw202
+c01,router,10/3/2023,vit,431,sw101
+b02,router,29/03/2023,vellore,406,sw303
+c02,router,19/01/2023,vellore,474,sw202
+a01,router,29/2/2023,vellore,584,sw101
+c02,router,1/1/2023,vit,437,sw202
+b02,smart switches,24/2/2023,vellore,426,sw101
+b01,smart switches,22/3/2023,vellore,556,sw101
+b02,router,25/03/2023,vit,482,sw202
+c02,router,6/02/2023,vellore,445,sw101
+a01,router,31/02/2023,vellore,544,sw202
+b01,router,14/2/2023,vellore,454,sw202
+b01,router,30/1/2023,vellore,537,sw202
+a01,smart switches,25/2/2023,vit,558,sw202
+c02,router,3/01/2023,vit,545,sw202
+a02,smart switches,28/2/2023,vellore,570,sw303
+c01,smart switches,20/1/2023,vit,568,sw101
+b02,smart switches,2/03/2023,vit,593,sw202
+c02,smart switches,31/03/2023,vit,511,sw202
+c01,smart switches,10/02/2023,vit,420,sw303
+c02,router,10/01/2023,vellore,465,sw101
+b02,smart switches,28/1/2023,vellore,412,sw303
+b01,smart switches,26/03/2023,vellore,468,sw303
+b02,smart switches,30/03/2023,vit,489,sw303
+c01,smart switches,7/03/2023,vellore,481,sw202
+a01,smart switches,25/03/2023,vit,579,sw202
+a02,smart switches,22/3/2023,vellore,540,sw202
+c01,router,1/2/2023,vit,489,sw303
+c02,router,26/3/2023,vit,507,sw303
+c01,router,7/02/2023,vit,482,sw202
+c02,smart switches,12/01/2023,vellore,593,sw303
+b02,router,31/01/2023,vellore,497,sw303
+c01,router,13/03/2023,vellore,500,sw202
+a02,smart switches,9/1/2023,vit,437,sw101
+c02,smart switches,12/02/2023,vellore,442,sw101
+b02,router,27/03/2023,vellore,556,sw202
+c02,smart switches,26/03/2023,vit,537,sw101
+c01,router,17/01/2023,vit,426,sw202
+a01,smart switches,25/2/2023,vellore,521,sw202
+c02,smart switches,4/03/2023,vellore,491,sw202
+a02,smart switches,18/2/2023,vellore,461,sw202
+c02,router,28/3/2023,vit,425,sw101
+a02,router,29/01/2023,vit,577,sw303
+c02,router,15/1/2023,vellore,545,sw303
+b02,smart switches,30/2/2023,vit,477,sw101
+c02,smart switches,30/03/2023,vit,480,sw101
+c02,router,13/1/2023,vellore,465,sw101
+b01,router,31/3/2023,vellore,430,sw303
+c02,router,10/01/2023,vit,493,sw101
+b01,router,20/01/2023,vit,550,sw202
+a01,router,17/01/2023,vit,446,sw101
+a01,router,22/02/2023,vit,444,sw101
+c02,smart switches,1/1/2023,vit,539,sw101
+c01,smart switches,26/01/2023,vellore,509,sw202
+a01,smart switches,7/01/2023,vit,594,sw202
+c01,router,17/1/2023,vellore,531,sw202
+c02,router,18/2/2023,vit,599,sw202
+b01,smart switches,9/03/2023,vit,502,sw202
+a01,smart switches,18/3/2023,vellore,458,sw101
+c02,router,8/02/2023,vit,565,sw101
+c01,smart switches,4/02/2023,vit,412,sw101
+b01,smart switches,26/01/2023,vit,423,sw202
+b02,router,12/01/2023,vellore,517,sw303
+a01,router,6/03/2023,vellore,428,sw303
+c01,smart switches,5/02/2023,vellore,460,sw303
+a02,router,13/02/2023,vellore,535,sw303
+c02,smart switches,12/03/2023,vellore,465,sw101
+b02,smart switches,1/1/2023,vit,514,sw101
+c02,router,23/3/2023,vit,405,sw202
+a01,smart switches,2/1/2023,vit,415,sw101
+c02,smart switches,31/02/2023,vellore,563,sw101
+a01,smart switches,15/02/2023,vellore,578,sw101
+c02,router,23/1/2023,vit,539,sw202
+a02,smart switches,24/03/2023,vit,474,sw202
+a01,smart switches,22/3/2023,vellore,559,sw303
+b02,router,16/3/2023,vellore,534,sw202
+a02,smart switches,1/3/2023,vellore,497,sw202
+a01,smart switches,20/01/2023,vellore,566,sw101
+b02,smart switches,14/01/2023,vellore,462,sw202
+b02,smart switches,9/02/2023,vit,596,sw202
+c02,router,7/2/2023,vellore,456,sw101
+b01,router,14/03/2023,vellore,528,sw303
+c02,smart switches,23/03/2023,vit,574,sw303
+c01,router,6/02/2023,vellore,450,sw303
+b01,router,20/01/2023,vellore,581,sw303
+c01,smart switches,16/2/2023,vit,519,sw303
+b02,router,27/3/2023,vellore,486,sw101
+b02,smart switches,14/02/2023,vellore,562,sw303
+a02,router,20/2/2023,vit,454,sw202
+a01,smart switches,8/01/2023,vellore,425,sw202
+c02,smart switches,3/2/2023,vit,401,sw101
+a02,router,9/1/2023,vit,566,sw202
+c01,smart switches,1/1/2023,vit,517,sw101
+a01,router,29/2/2023,vellore,557,sw101
+a02,router,8/2/2023,vit,533,sw202
+c02,smart switches,6/2/2023,vit,402,sw303
+a02,router,1/02/2023,vit,537,sw101
+a02,smart switches,9/02/2023,vit,519,sw303
+c01,smart switches,18/1/2023,vit,587,sw303
+a02,router,5/3/2023,vit,537,sw101
+c02,smart switches,31/2/2023,vit,422,sw202
+c01,router,13/03/2023,vellore,478,sw202
+b01,smart switches,29/01/2023,vit,447,sw101
+a02,router,11/03/2023,vellore,564,sw202
+b01,smart switches,20/03/2023,vit,482,sw101
+c02,smart switches,14/2/2023,vit,422,sw303
+c02,router,10/2/2023,vellore,429,sw202
+b02,router,19/01/2023,vellore,445,sw202
+a02,smart switches,30/01/2023,vit,577,sw202
+c01,router,28/02/2023,vellore,519,sw303
+a02,router,29/02/2023,vit,403,sw303
+b02,router,21/02/2023,vellore,583,sw202
+b01,router,9/2/2023,vit,501,sw202
+b02,smart switches,28/02/2023,vellore,441,sw101
+c01,router,9/2/2023,vit,428,sw101
+b01,router,1/3/2023,vit,456,sw303

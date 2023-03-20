@@ -1,0 +1,401 @@
+machine model,machine type,fault type,fault date,part name,part price,service status
+c01,smartswitches,risky fault,7/2/2023,ram,57,out-of-service
+a01,routers,risky fault,23/2/2023,rom,92,in-service
+a02,smartswitches,risky fault,4/1/2023,port,72,in-service
+c02,smartswitches,emergency,29/02/2023,rom,53,in-service
+c01,smartswitches,emergency,9/01/2023,port,62,out-of-service
+a01,smartswitches,risky fault,6/2/2023,ram,50,in-service
+c02,smartswitches,maintenance,17/02/2023,port,53,in-service
+c02,smartswitches,emergency,23/2/2023,ram,98,in-service
+b02,routers,maintenance,21/2/2023,port,58,out-of-service
+b02,routers,maintenance,10/03/2023,rom,84,out-of-service
+c01,smartswitches,maintenance,2/02/2023,ram,72,in-service
+b02,routers,service,26/03/2023,rom,82,out-of-service
+c02,routers,risky fault,31/01/2023,ram,71,in-service
+c01,smartswitches,maintenance,1/02/2023,rom,64,in-service
+c01,smartswitches,risky fault,26/2/2023,port,60,out-of-service
+a01,routers,emergency,23/01/2023,rom,100,in-service
+c02,routers,emergency,29/01/2023,rom,60,out-of-service
+a01,routers,emergency,24/02/2023,port,68,out-of-service
+c02,smartswitches,service,5/1/2023,ram,84,out-of-service
+c01,routers,emergency,10/1/2023,ram,75,out-of-service
+b01,routers,service,3/1/2023,port,65,in-service
+b01,routers,maintenance,9/02/2023,ram,93,out-of-service
+b02,routers,maintenance,9/2/2023,rom,52,out-of-service
+b01,routers,maintenance,17/2/2023,port,75,in-service
+c02,routers,maintenance,18/01/2023,port,97,in-service
+b01,routers,emergency,28/02/2023,port,65,out-of-service
+a02,smartswitches,risky fault,9/3/2023,rom,72,in-service
+b02,smartswitches,service,13/01/2023,port,61,out-of-service
+a02,smartswitches,service,10/01/2023,rom,91,in-service
+c02,routers,service,11/01/2023,ram,71,in-service
+b01,routers,service,17/03/2023,rom,80,out-of-service
+a01,routers,maintenance,30/3/2023,port,75,out-of-service
+c02,routers,risky fault,12/1/2023,rom,69,in-service
+c01,smartswitches,maintenance,16/01/2023,rom,53,in-service
+b02,routers,emergency,26/03/2023,rom,74,out-of-service
+b01,routers,service,12/03/2023,rom,89,in-service
+a02,routers,risky fault,27/01/2023,ram,78,in-service
+c02,smartswitches,emergency,16/2/2023,ram,58,in-service
+b02,smartswitches,service,10/02/2023,port,58,out-of-service
+b02,smartswitches,maintenance,2/02/2023,ram,95,in-service
+b02,routers,emergency,19/02/2023,port,71,in-service
+a01,smartswitches,service,10/03/2023,ram,66,out-of-service
+c02,smartswitches,service,5/1/2023,rom,50,out-of-service
+c01,routers,emergency,7/02/2023,rom,94,in-service
+b01,smartswitches,emergency,6/03/2023,port,59,out-of-service
+b02,routers,emergency,3/02/2023,ram,69,out-of-service
+b02,smartswitches,maintenance,9/2/2023,port,77,in-service
+a01,routers,maintenance,11/2/2023,rom,79,out-of-service
+b02,smartswitches,maintenance,14/1/2023,port,81,in-service
+c02,smartswitches,risky fault,20/3/2023,ram,60,out-of-service
+a01,smartswitches,service,28/03/2023,ram,60,out-of-service
+c02,smartswitches,maintenance,3/03/2023,rom,100,in-service
+b02,routers,maintenance,1/1/2023,rom,63,in-service
+c01,routers,maintenance,13/2/2023,ram,68,in-service
+b02,smartswitches,maintenance,8/2/2023,rom,54,out-of-service
+c02,routers,maintenance,21/2/2023,port,96,in-service
+c02,smartswitches,emergency,17/3/2023,port,55,out-of-service
+c02,routers,maintenance,4/02/2023,port,76,in-service
+a02,smartswitches,service,31/2/2023,ram,86,in-service
+c02,smartswitches,risky fault,2/03/2023,ram,71,in-service
+b02,smartswitches,emergency,29/03/2023,rom,72,in-service
+a02,smartswitches,service,9/2/2023,port,100,out-of-service
+b01,smartswitches,service,9/3/2023,rom,67,in-service
+a01,routers,risky fault,31/02/2023,ram,54,out-of-service
+a02,routers,risky fault,29/1/2023,ram,62,out-of-service
+a02,routers,emergency,27/1/2023,ram,98,out-of-service
+b01,smartswitches,maintenance,28/1/2023,port,83,out-of-service
+c02,routers,emergency,28/2/2023,rom,89,out-of-service
+c02,routers,risky fault,19/02/2023,rom,73,in-service
+c02,routers,risky fault,2/01/2023,rom,51,out-of-service
+b02,routers,service,18/01/2023,ram,53,in-service
+a01,routers,maintenance,19/01/2023,port,97,in-service
+c01,smartswitches,service,25/01/2023,ram,71,out-of-service
+c01,routers,service,6/1/2023,ram,82,out-of-service
+b02,routers,risky fault,8/03/2023,rom,90,in-service
+c01,routers,service,26/02/2023,rom,63,in-service
+b01,routers,service,31/01/2023,rom,79,out-of-service
+a02,smartswitches,maintenance,25/03/2023,port,59,out-of-service
+c01,smartswitches,risky fault,8/01/2023,rom,85,out-of-service
+a02,smartswitches,risky fault,11/2/2023,ram,97,out-of-service
+a02,smartswitches,maintenance,16/02/2023,port,67,out-of-service
+b01,smartswitches,maintenance,3/1/2023,port,51,out-of-service
+a02,routers,risky fault,6/02/2023,rom,88,in-service
+a01,routers,emergency,24/3/2023,ram,58,out-of-service
+c02,routers,service,6/1/2023,rom,53,in-service
+c01,routers,maintenance,2/3/2023,ram,82,out-of-service
+a01,routers,risky fault,6/1/2023,rom,64,in-service
+c02,smartswitches,service,24/3/2023,ram,90,out-of-service
+a01,smartswitches,service,14/2/2023,port,64,in-service
+b01,routers,service,29/2/2023,port,93,out-of-service
+c01,smartswitches,service,8/1/2023,rom,54,out-of-service
+b02,routers,risky fault,16/1/2023,rom,69,in-service
+c02,routers,maintenance,18/3/2023,port,67,out-of-service
+c01,routers,emergency,12/2/2023,ram,65,in-service
+c02,smartswitches,risky fault,25/03/2023,rom,75,in-service
+b02,routers,emergency,25/1/2023,ram,82,in-service
+a02,routers,risky fault,8/2/2023,rom,56,out-of-service
+b01,smartswitches,maintenance,15/02/2023,ram,90,out-of-service
+c02,routers,emergency,31/2/2023,rom,97,in-service
+c02,smartswitches,emergency,31/1/2023,rom,55,in-service
+c02,routers,risky fault,19/1/2023,ram,64,in-service
+b01,routers,emergency,12/2/2023,port,52,in-service
+a02,smartswitches,risky fault,27/02/2023,port,63,in-service
+b01,smartswitches,service,19/3/2023,port,90,out-of-service
+c01,routers,maintenance,23/2/2023,rom,80,in-service
+b01,smartswitches,risky fault,25/03/2023,port,83,out-of-service
+c01,routers,maintenance,17/1/2023,port,83,in-service
+c02,routers,emergency,16/01/2023,rom,96,in-service
+a02,routers,risky fault,3/1/2023,rom,58,out-of-service
+c01,routers,risky fault,30/03/2023,rom,79,in-service
+c01,smartswitches,service,21/03/2023,rom,55,in-service
+b01,routers,maintenance,9/03/2023,ram,96,out-of-service
+c01,routers,maintenance,16/01/2023,port,69,in-service
+b01,routers,service,29/3/2023,rom,77,in-service
+c01,smartswitches,maintenance,5/02/2023,rom,99,out-of-service
+c02,routers,emergency,17/01/2023,ram,54,in-service
+a02,routers,maintenance,24/02/2023,ram,81,in-service
+c01,smartswitches,risky fault,16/02/2023,rom,72,in-service
+b01,smartswitches,emergency,14/03/2023,ram,66,out-of-service
+b02,routers,risky fault,22/02/2023,ram,78,in-service
+c01,smartswitches,emergency,22/1/2023,rom,97,in-service
+c02,smartswitches,service,9/01/2023,rom,53,in-service
+a02,smartswitches,emergency,11/1/2023,rom,84,out-of-service
+a02,routers,service,17/1/2023,rom,69,out-of-service
+b02,smartswitches,maintenance,23/01/2023,port,85,in-service
+c02,routers,emergency,1/02/2023,port,70,in-service
+a01,routers,emergency,25/1/2023,port,57,in-service
+b01,smartswitches,maintenance,7/2/2023,rom,60,out-of-service
+a02,routers,risky fault,10/3/2023,rom,80,in-service
+c02,routers,maintenance,7/01/2023,ram,63,in-service
+b01,routers,service,28/3/2023,rom,93,out-of-service
+c01,smartswitches,emergency,21/2/2023,port,60,out-of-service
+b01,routers,maintenance,18/3/2023,port,57,out-of-service
+c02,routers,risky fault,10/2/2023,ram,78,out-of-service
+a02,routers,risky fault,2/01/2023,port,70,out-of-service
+b02,smartswitches,service,3/01/2023,port,64,in-service
+b01,routers,service,1/02/2023,rom,96,in-service
+b01,routers,service,8/01/2023,rom,86,in-service
+c02,smartswitches,maintenance,15/1/2023,port,52,out-of-service
+c02,smartswitches,maintenance,23/01/2023,ram,92,in-service
+b01,smartswitches,service,3/1/2023,port,57,in-service
+b02,smartswitches,service,29/3/2023,rom,83,out-of-service
+a02,smartswitches,risky fault,11/02/2023,ram,65,out-of-service
+c02,smartswitches,maintenance,26/1/2023,port,59,out-of-service
+c01,smartswitches,service,14/3/2023,ram,64,in-service
+b02,routers,risky fault,15/1/2023,port,84,out-of-service
+a02,smartswitches,risky fault,26/02/2023,rom,50,in-service
+a02,routers,maintenance,13/3/2023,rom,75,in-service
+b02,routers,service,28/3/2023,port,90,in-service
+b01,smartswitches,emergency,1/02/2023,ram,86,in-service
+a02,smartswitches,emergency,24/2/2023,ram,99,out-of-service
+c02,smartswitches,risky fault,17/1/2023,port,60,in-service
+a01,smartswitches,service,28/01/2023,port,75,out-of-service
+c01,smartswitches,service,28/3/2023,port,56,in-service
+b02,routers,maintenance,2/03/2023,port,65,in-service
+a01,smartswitches,service,13/2/2023,ram,54,in-service
+b02,smartswitches,maintenance,16/3/2023,port,78,in-service
+c01,smartswitches,risky fault,30/03/2023,port,90,out-of-service
+c02,smartswitches,risky fault,31/03/2023,port,99,out-of-service
+b01,smartswitches,risky fault,9/03/2023,rom,55,in-service
+a02,smartswitches,risky fault,22/3/2023,port,66,in-service
+c01,smartswitches,emergency,8/1/2023,rom,51,in-service
+a01,smartswitches,risky fault,6/3/2023,rom,60,out-of-service
+c01,smartswitches,service,3/03/2023,rom,88,out-of-service
+a02,routers,service,21/03/2023,port,54,out-of-service
+b02,smartswitches,service,7/02/2023,ram,82,in-service
+c01,smartswitches,service,25/3/2023,rom,82,in-service
+c01,routers,emergency,24/3/2023,ram,93,in-service
+c02,smartswitches,risky fault,13/02/2023,ram,72,in-service
+a01,smartswitches,emergency,4/01/2023,port,62,in-service
+b02,smartswitches,maintenance,2/02/2023,rom,72,in-service
+b01,routers,risky fault,5/02/2023,rom,92,out-of-service
+a02,routers,risky fault,7/01/2023,rom,100,in-service
+b02,smartswitches,risky fault,19/01/2023,port,66,in-service
+c02,smartswitches,maintenance,5/01/2023,ram,92,in-service
+c02,smartswitches,maintenance,9/01/2023,port,98,out-of-service
+c01,smartswitches,risky fault,19/03/2023,port,78,in-service
+b02,smartswitches,risky fault,12/01/2023,rom,74,out-of-service
+b01,routers,maintenance,26/03/2023,port,81,out-of-service
+a02,smartswitches,maintenance,5/03/2023,port,95,out-of-service
+c02,routers,maintenance,8/1/2023,rom,79,in-service
+c01,routers,maintenance,13/01/2023,port,63,out-of-service
+c01,smartswitches,service,12/03/2023,port,87,out-of-service
+c02,routers,emergency,5/3/2023,ram,54,out-of-service
+b01,routers,service,25/01/2023,rom,70,out-of-service
+a02,smartswitches,service,6/02/2023,port,50,in-service
+b02,routers,emergency,9/1/2023,ram,70,out-of-service
+a02,smartswitches,emergency,4/03/2023,rom,75,out-of-service
+c01,routers,maintenance,28/02/2023,ram,79,in-service
+c02,smartswitches,emergency,21/1/2023,port,63,in-service
+c02,smartswitches,risky fault,11/02/2023,ram,75,out-of-service
+a02,smartswitches,risky fault,10/1/2023,rom,76,in-service
+c01,smartswitches,risky fault,9/01/2023,rom,57,out-of-service
+c01,smartswitches,emergency,13/02/2023,rom,68,out-of-service
+c01,smartswitches,risky fault,10/1/2023,port,63,in-service
+a02,smartswitches,maintenance,3/2/2023,rom,50,in-service
+a02,smartswitches,maintenance,11/3/2023,rom,85,out-of-service
+b02,routers,emergency,7/1/2023,port,55,in-service
+a01,routers,maintenance,9/1/2023,ram,75,in-service
+a02,routers,emergency,29/1/2023,rom,59,in-service
+b01,routers,emergency,17/02/2023,port,89,in-service
+a01,smartswitches,risky fault,3/1/2023,rom,100,in-service
+c01,routers,emergency,13/03/2023,ram,57,in-service
+b01,smartswitches,service,14/3/2023,port,94,in-service
+b01,routers,maintenance,25/3/2023,ram,77,out-of-service
+a01,routers,emergency,3/1/2023,port,87,in-service
+a01,smartswitches,service,24/01/2023,port,87,in-service
+b02,smartswitches,maintenance,12/3/2023,rom,89,in-service
+c01,smartswitches,risky fault,30/02/2023,port,56,in-service
+a02,smartswitches,risky fault,1/03/2023,port,93,out-of-service
+a01,smartswitches,maintenance,3/01/2023,port,96,out-of-service
+a02,smartswitches,maintenance,18/02/2023,ram,93,in-service
+c02,routers,emergency,9/02/2023,ram,100,out-of-service
+a01,routers,risky fault,22/3/2023,ram,62,out-of-service
+b02,smartswitches,emergency,6/3/2023,rom,92,in-service
+c01,smartswitches,service,27/1/2023,rom,87,in-service
+a02,smartswitches,risky fault,2/2/2023,rom,94,out-of-service
+a02,routers,emergency,16/3/2023,ram,62,out-of-service
+b01,routers,emergency,5/3/2023,rom,97,in-service
+c01,routers,emergency,27/2/2023,rom,64,in-service
+b01,smartswitches,emergency,27/3/2023,ram,59,in-service
+b01,routers,service,12/01/2023,rom,52,out-of-service
+b02,smartswitches,service,2/1/2023,rom,97,in-service
+b02,routers,service,5/3/2023,rom,78,in-service
+a02,smartswitches,maintenance,26/03/2023,port,67,out-of-service
+c02,smartswitches,emergency,20/2/2023,port,85,out-of-service
+b02,routers,maintenance,16/02/2023,port,83,in-service
+c01,routers,service,24/01/2023,ram,89,out-of-service
+c01,routers,maintenance,25/1/2023,port,59,out-of-service
+a02,routers,emergency,6/2/2023,rom,63,in-service
+c02,smartswitches,risky fault,17/2/2023,ram,93,in-service
+a02,routers,emergency,27/03/2023,port,97,out-of-service
+a02,smartswitches,emergency,28/2/2023,rom,93,in-service
+a01,routers,service,15/03/2023,rom,96,in-service
+c01,routers,maintenance,12/01/2023,ram,94,out-of-service
+b02,smartswitches,emergency,16/01/2023,port,61,in-service
+c02,smartswitches,service,21/1/2023,port,65,out-of-service
+b02,smartswitches,risky fault,9/01/2023,rom,71,in-service
+b01,smartswitches,risky fault,20/2/2023,rom,89,out-of-service
+a02,smartswitches,service,11/03/2023,ram,97,in-service
+b02,smartswitches,emergency,16/2/2023,rom,60,in-service
+a02,routers,service,3/3/2023,rom,66,in-service
+c02,routers,maintenance,30/1/2023,port,89,in-service
+c01,routers,service,13/02/2023,port,73,out-of-service
+a02,smartswitches,maintenance,14/1/2023,rom,85,in-service
+c02,routers,emergency,11/1/2023,port,65,in-service
+c01,smartswitches,risky fault,14/01/2023,rom,52,out-of-service
+b02,routers,emergency,26/02/2023,port,73,out-of-service
+b01,routers,emergency,31/01/2023,port,72,out-of-service
+a01,smartswitches,maintenance,19/1/2023,ram,92,out-of-service
+c02,smartswitches,maintenance,25/3/2023,ram,95,out-of-service
+c01,smartswitches,emergency,15/02/2023,ram,97,in-service
+c02,routers,emergency,8/3/2023,port,72,out-of-service
+a01,routers,service,12/01/2023,rom,93,in-service
+c01,smartswitches,risky fault,22/3/2023,port,70,in-service
+c01,routers,service,23/1/2023,port,68,in-service
+b02,smartswitches,risky fault,19/2/2023,ram,77,in-service
+b02,routers,maintenance,17/03/2023,rom,98,in-service
+c02,smartswitches,risky fault,18/02/2023,ram,92,in-service
+a01,smartswitches,emergency,28/1/2023,rom,71,out-of-service
+c01,smartswitches,maintenance,26/3/2023,port,65,out-of-service
+c01,smartswitches,risky fault,30/02/2023,rom,60,in-service
+b02,smartswitches,risky fault,24/3/2023,port,71,in-service
+b01,smartswitches,maintenance,20/1/2023,port,69,in-service
+a02,smartswitches,emergency,5/1/2023,ram,51,out-of-service
+c01,routers,service,1/03/2023,port,65,out-of-service
+a02,routers,service,4/01/2023,port,80,in-service
+b01,routers,risky fault,8/01/2023,port,51,out-of-service
+a01,routers,risky fault,14/3/2023,ram,57,out-of-service
+c01,routers,maintenance,27/03/2023,port,99,out-of-service
+a01,smartswitches,service,14/01/2023,ram,85,out-of-service
+a01,smartswitches,service,5/02/2023,rom,51,in-service
+a02,smartswitches,service,30/2/2023,rom,52,out-of-service
+a01,smartswitches,maintenance,24/03/2023,port,82,in-service
+b02,smartswitches,emergency,10/3/2023,rom,65,out-of-service
+c02,routers,maintenance,16/1/2023,port,55,out-of-service
+b01,routers,service,19/03/2023,port,71,in-service
+c02,smartswitches,service,29/1/2023,rom,90,in-service
+a02,routers,maintenance,2/2/2023,rom,67,in-service
+b02,routers,service,8/03/2023,ram,54,in-service
+b01,smartswitches,risky fault,8/02/2023,ram,71,out-of-service
+a02,smartswitches,risky fault,21/01/2023,port,54,out-of-service
+b01,smartswitches,emergency,21/1/2023,rom,84,out-of-service
+c02,smartswitches,service,18/2/2023,rom,79,in-service
+c01,routers,risky fault,18/01/2023,ram,52,in-service
+c01,smartswitches,service,13/01/2023,rom,65,in-service
+a02,smartswitches,risky fault,28/03/2023,port,84,out-of-service
+a02,routers,maintenance,4/2/2023,port,85,in-service
+a02,routers,emergency,31/1/2023,ram,75,in-service
+c02,smartswitches,maintenance,19/02/2023,port,89,out-of-service
+a02,smartswitches,emergency,17/1/2023,port,56,in-service
+c01,routers,emergency,17/3/2023,port,81,out-of-service
+a01,routers,risky fault,19/01/2023,port,54,in-service
+b02,routers,maintenance,15/01/2023,port,96,in-service
+b01,smartswitches,risky fault,23/02/2023,rom,68,out-of-service
+a02,smartswitches,emergency,28/3/2023,ram,78,in-service
+c02,smartswitches,risky fault,31/2/2023,rom,78,out-of-service
+c02,smartswitches,emergency,23/03/2023,rom,94,out-of-service
+c01,routers,maintenance,26/3/2023,ram,75,in-service
+a02,smartswitches,service,28/3/2023,port,97,out-of-service
+b02,smartswitches,risky fault,26/01/2023,ram,62,out-of-service
+a01,smartswitches,risky fault,24/1/2023,ram,55,in-service
+c02,smartswitches,maintenance,26/01/2023,port,83,in-service
+a02,routers,service,6/01/2023,port,80,in-service
+b01,smartswitches,risky fault,2/03/2023,rom,86,in-service
+a02,smartswitches,risky fault,18/2/2023,port,60,out-of-service
+c02,smartswitches,risky fault,16/1/2023,rom,81,in-service
+c02,routers,risky fault,6/02/2023,ram,96,in-service
+a01,smartswitches,emergency,21/02/2023,port,59,out-of-service
+c02,routers,emergency,8/02/2023,port,97,in-service
+a01,smartswitches,emergency,12/2/2023,ram,87,in-service
+b01,smartswitches,emergency,28/02/2023,rom,90,out-of-service
+c02,routers,maintenance,7/01/2023,ram,80,in-service
+a01,routers,maintenance,10/01/2023,rom,76,out-of-service
+c02,routers,emergency,19/03/2023,ram,53,out-of-service
+b01,smartswitches,service,21/2/2023,ram,63,in-service
+c02,smartswitches,service,29/01/2023,rom,98,in-service
+c02,smartswitches,maintenance,9/03/2023,port,88,in-service
+a01,smartswitches,maintenance,26/03/2023,port,91,in-service
+c02,smartswitches,emergency,10/3/2023,ram,55,out-of-service
+b01,routers,maintenance,5/2/2023,ram,58,in-service
+c02,routers,service,5/03/2023,rom,93,in-service
+a01,routers,risky fault,22/02/2023,port,84,in-service
+c01,routers,service,30/02/2023,ram,51,in-service
+b02,smartswitches,risky fault,21/1/2023,port,69,in-service
+c02,routers,maintenance,20/02/2023,rom,54,in-service
+b02,routers,risky fault,29/2/2023,rom,98,in-service
+c01,smartswitches,service,17/1/2023,ram,77,out-of-service
+a02,routers,risky fault,29/1/2023,rom,96,out-of-service
+b01,routers,service,18/03/2023,ram,56,in-service
+b01,smartswitches,risky fault,6/2/2023,ram,87,in-service
+b02,routers,emergency,26/02/2023,ram,64,out-of-service
+a01,routers,service,17/03/2023,rom,79,out-of-service
+a02,smartswitches,maintenance,11/03/2023,ram,73,in-service
+a02,smartswitches,maintenance,26/03/2023,port,53,in-service
+b01,smartswitches,maintenance,30/03/2023,port,76,in-service
+a02,routers,maintenance,6/1/2023,rom,59,out-of-service
+a01,smartswitches,service,26/02/2023,ram,93,in-service
+b01,smartswitches,risky fault,7/02/2023,port,72,out-of-service
+c02,smartswitches,maintenance,7/03/2023,ram,91,in-service
+c01,smartswitches,emergency,21/2/2023,ram,71,out-of-service
+b02,routers,service,5/1/2023,rom,92,in-service
+b02,smartswitches,emergency,19/1/2023,ram,84,in-service
+b02,routers,service,25/02/2023,rom,63,in-service
+b02,routers,risky fault,3/01/2023,port,54,out-of-service
+c01,routers,service,9/1/2023,port,96,out-of-service
+b01,smartswitches,service,9/01/2023,ram,67,out-of-service
+c01,routers,service,10/2/2023,rom,89,in-service
+a02,smartswitches,service,19/02/2023,ram,63,in-service
+b01,smartswitches,maintenance,15/03/2023,port,82,in-service
+c02,smartswitches,service,29/3/2023,port,72,in-service
+c02,smartswitches,maintenance,16/3/2023,ram,69,in-service
+c02,smartswitches,risky fault,12/1/2023,port,59,out-of-service
+c01,smartswitches,risky fault,27/3/2023,rom,89,out-of-service
+a01,smartswitches,risky fault,9/01/2023,rom,54,in-service
+a01,routers,maintenance,8/01/2023,port,74,in-service
+a02,routers,emergency,30/01/2023,port,91,out-of-service
+b01,smartswitches,maintenance,10/3/2023,port,85,out-of-service
+b01,smartswitches,risky fault,13/01/2023,rom,75,in-service
+b01,smartswitches,service,27/2/2023,ram,95,out-of-service
+a01,smartswitches,maintenance,29/02/2023,port,91,out-of-service
+a01,smartswitches,risky fault,28/1/2023,rom,87,in-service
+a01,routers,risky fault,30/01/2023,ram,54,in-service
+c01,smartswitches,risky fault,21/2/2023,port,51,out-of-service
+c02,smartswitches,maintenance,20/3/2023,ram,59,out-of-service
+b02,smartswitches,maintenance,16/02/2023,rom,65,in-service
+b02,routers,risky fault,12/01/2023,port,79,in-service
+b01,smartswitches,maintenance,27/02/2023,rom,73,in-service
+b02,routers,maintenance,9/01/2023,port,72,out-of-service
+a01,smartswitches,maintenance,6/1/2023,rom,79,in-service
+b01,routers,maintenance,5/3/2023,port,94,out-of-service
+b01,routers,service,6/1/2023,rom,73,in-service
+a01,smartswitches,maintenance,15/03/2023,ram,86,out-of-service
+c02,routers,emergency,29/1/2023,port,60,out-of-service
+b01,routers,service,17/02/2023,ram,51,in-service
+b02,routers,maintenance,3/3/2023,rom,70,in-service
+a02,smartswitches,maintenance,8/02/2023,port,69,out-of-service
+a01,smartswitches,maintenance,6/2/2023,rom,87,in-service
+b02,smartswitches,maintenance,1/01/2023,rom,64,out-of-service
+a02,routers,risky fault,22/1/2023,rom,92,out-of-service
+c02,routers,service,6/3/2023,ram,81,out-of-service
+b02,routers,emergency,8/3/2023,rom,78,in-service
+c02,smartswitches,emergency,25/01/2023,ram,69,out-of-service
+b01,routers,maintenance,6/1/2023,port,73,in-service
+c01,smartswitches,risky fault,16/03/2023,ram,67,in-service
+b02,smartswitches,maintenance,11/3/2023,rom,65,in-service
+a01,routers,risky fault,31/1/2023,port,52,out-of-service
+a01,smartswitches,emergency,5/1/2023,rom,75,out-of-service
+a02,routers,risky fault,21/03/2023,port,57,out-of-service
+b01,smartswitches,maintenance,17/1/2023,rom,67,out-of-service
+a02,smartswitches,emergency,7/03/2023,ram,83,in-service
+a01,routers,emergency,31/3/2023,port,57,in-service
+b02,smartswitches,service,29/03/2023,ram,88,in-service
+c01,smartswitches,emergency,13/2/2023,port,80,out-of-service
+b01,routers,emergency,5/2/2023,port,61,in-service
+c01,routers,service,5/03/2023,ram,93,out-of-service
+a02,smartswitches,risky fault,29/1/2023,ram,63,in-service
+c02,routers,risky fault,6/2/2023,rom,60,out-of-service
+b01,smartswitches,service,24/03/2023,ram,80,out-of-service
+c02,smartswitches,service,15/3/2023,rom,85,out-of-service

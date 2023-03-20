@@ -1,0 +1,18 @@
+{
+  "intents": [
+    {
+      "tag": "count",
+      "patterns": [
+        "Number of switches",
+        "count of switches"
+      ]
+    },
+    {
+      "tag": "tell",
+      "patterns": [
+        "price of router",
+        "what is the software version of switch sold in vietnam"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1001 @@
+machine model,machine type,country name,delivery date,delivery site,price,software version
+c02,router,vietnam,8/3/2023,vietnam-city,519,sw303
+a01,router,india,31/3/2023,vellore,498,sw303
+a01,router,india,1/1/2023,vit,582,sw202
+a02,smart switches,usa,11/1/2023,newyork,585,sw101
+c01,router,united kingdom,31/02/2023,london,400,sw303
+c01,router,india,27/2/2023,vit,588,sw101
+a02,smart switches,india,29/01/2023,vit,481,sw202
+b02,smart switches,india,27/1/2023,vit,432,sw202
+b02,smart switches,vietnam,15/2/2023,vietnam-city,490,sw202
+b01,router,usa,5/03/2023,california,597,sw202
+a02,router,usa,8/1/2023,california,594,sw303
+b02,smart switches,norway,27/1/2023,loften,492,sw101
+a01,router,united kingdom,12/01/2023,london,415,sw303
+b02,smart switches,vietnam,3/01/2023,vietnam-city,451,sw202
+c01,smart switches,norway,27/02/2023,loften,550,sw303
+b01,router,united kingdom,17/02/2023,london,457,sw101
+a02,router,united kingdom,10/3/2023,london,575,sw303
+a01,router,india,6/3/2023,vit,543,sw202
+b01,smart switches,vietnam,7/02/2023,vietnam-city,577,sw101
+b01,router,usa,28/03/2023,newyork,565,sw303
+c01,smart switches,norway,23/1/2023,loften,570,sw202
+c01,router,usa,15/01/2023,california,515,sw303
+b02,smart switches,usa,17/3/2023,newyork,434,sw303
+a02,smart switches,india,6/3/2023,vit,440,sw202
+a02,router,usa,9/1/2023,california,515,sw101
+b02,smart switches,india,20/2/2023,vit,461,sw101
+a01,smart switches,norway,27/02/2023,loften,579,sw202
+a01,router,india,4/01/2023,vit,472,sw202
+c02,smart switches,usa,22/03/2023,newyork,489,sw202
+c02,router,norway,23/02/2023,loften,440,sw202
+c01,router,india,3/3/2023,vellore,490,sw303
+c01,router,vietnam,13/1/2023,vietnam-city,553,sw303
+a01,router,united kingdom,23/03/2023,london,447,sw303
+b01,router,usa,7/01/2023,newyork,419,sw101
+c02,router,united kingdom,25/2/2023,london,418,sw202
+a02,router,united kingdom,1/1/2023,london,428,sw303
+a02,smart switches,usa,5/1/2023,california,405,sw202
+b01,router,usa,28/1/2023,california,569,sw101
+c02,router,india,15/3/2023,vit,409,sw101
+b01,smart switches,vietnam,14/3/2023,vietnam-city,438,sw303
+b01,router,usa,14/3/2023,newyork,594,sw303
+b02,smart switches,norway,23/03/2023,loften,430,sw303
+a02,smart switches,vietnam,22/03/2023,vietnam-city,403,sw101
+b02,smart switches,norway,25/01/2023,loften,541,sw101
+c01,router,norway,23/02/2023,loften,508,sw303
+b02,smart switches,usa,11/02/2023,newyork,566,sw101
+a02,smart switches,norway,20/1/2023,loften,453,sw303
+a02,smart switches,united kingdom,30/02/2023,london,527,sw202
+b01,router,india,14/1/2023,vellore,515,sw101
+c01,smart switches,india,24/01/2023,vit,438,sw303
+c01,smart switches,vietnam,18/03/2023,vietnam-city,511,sw101
+a01,smart switches,india,19/2/2023,vit,462,sw303
+a01,router,india,17/2/2023,vit,558,sw101
+b02,smart switches,norway,9/01/2023,loften,563,sw101
+a01,router,united kingdom,20/02/2023,london,546,sw202
+b01,router,united kingdom,13/3/2023,london,409,sw101
+c02,router,norway,19/01/2023,loften,526,sw202
+b01,smart switches,united kingdom,4/1/2023,london,522,sw101
+c02,router,india,5/03/2023,vellore,531,sw202
+a01,router,norway,18/1/2023,loften,536,sw202
+c02,smart switches,united kingdom,15/2/2023,london,502,sw101
+c01,router,india,9/2/2023,vellore,505,sw202
+c02,smart switches,norway,16/01/2023,loften,406,sw101
+b02,router,vietnam,12/2/2023,vietnam-city,498,sw202
+b02,router,usa,27/01/2023,california,458,sw101
+c02,smart switches,norway,8/3/2023,loften,580,sw101
+b02,smart switches,usa,24/01/2023,newyork,538,sw101
+c01,router,india,16/3/2023,vit,528,sw303
+c02,smart switches,india,24/03/2023,vellore,404,sw202
+a01,router,india,8/01/2023,vit,525,sw101
+a02,router,vietnam,26/01/2023,vietnam-city,468,sw303
+a01,router,united kingdom,20/02/2023,london,552,sw303
+a01,router,india,12/03/2023,vellore,587,sw202
+c02,router,norway,26/02/2023,loften,509,sw101
+b01,router,india,1/2/2023,vit,505,sw303
+b01,router,united kingdom,31/1/2023,london,571,sw101
+a02,smart switches,usa,1/01/2023,california,466,sw202
+b02,smart switches,vietnam,15/03/2023,vietnam-city,498,sw202
+c02,smart switches,norway,21/1/2023,loften,405,sw202
+c02,smart switches,india,18/2/2023,vit,416,sw101
+b01,smart switches,usa,18/02/2023,california,444,sw303
+c02,smart switches,vietnam,13/1/2023,vietnam-city,534,sw101
+a02,smart switches,india,21/02/2023,vellore,441,sw202
+a01,router,usa,19/01/2023,california,477,sw303
+b01,router,vietnam,26/1/2023,vietnam-city,550,sw202
+a01,router,india,4/03/2023,vit,590,sw303
+b02,router,vietnam,30/03/2023,vietnam-city,420,sw101
+a01,smart switches,norway,23/02/2023,loften,453,sw202
+c01,router,united kingdom,19/03/2023,london,553,sw303
+b01,router,norway,6/3/2023,loften,463,sw202
+a01,router,india,17/02/2023,vit,510,sw303
+a01,router,united kingdom,8/03/2023,london,420,sw202
+b01,smart switches,vietnam,13/01/2023,vietnam-city,416,sw101
+b02,router,united kingdom,4/02/2023,london,597,sw101
+c02,smart switches,vietnam,9/3/2023,vietnam-city,415,sw303
+a01,smart switches,vietnam,24/3/2023,vietnam-city,557,sw202
+c02,router,norway,10/01/2023,loften,494,sw202
+b01,router,india,30/01/2023,vit,427,sw101
+c02,smart switches,norway,20/3/2023,loften,564,sw101
+c01,router,norway,4/2/2023,loften,578,sw202
+a01,smart switches,norway,15/2/2023,loften,595,sw303
+b02,smart switches,india,1/1/2023,vellore,497,sw202
+c01,smart switches,vietnam,31/01/2023,vietnam-city,408,sw202
+b02,router,india,21/01/2023,vit,584,sw202
+c02,smart switches,norway,25/3/2023,loften,466,sw303
+a02,smart switches,norway,29/02/2023,loften,443,sw101
+c02,smart switches,india,19/1/2023,vellore,487,sw101
+c02,router,usa,7/3/2023,newyork,465,sw101
+a01,smart switches,united kingdom,14/02/2023,london,525,sw101
+b01,smart switches,india,16/2/2023,vit,569,sw101
+b01,router,vietnam,13/02/2023,vietnam-city,553,sw101
+b02,router,united kingdom,2/03/2023,london,529,sw101
+c02,router,norway,5/1/2023,loften,547,sw303
+b01,smart switches,india,22/01/2023,vellore,576,sw202
+c01,router,usa,2/01/2023,california,436,sw202
+c02,smart switches,india,29/03/2023,vellore,580,sw303
+b01,router,united kingdom,21/02/2023,london,418,sw202
+b02,router,india,22/2/2023,vit,530,sw303
+c02,router,india,25/01/2023,vellore,588,sw202
+b01,smart switches,usa,11/1/2023,newyork,594,sw101
+b01,smart switches,united kingdom,18/03/2023,london,445,sw303
+a01,smart switches,united kingdom,1/02/2023,london,584,sw202
+c02,router,vietnam,1/1/2023,vietnam-city,486,sw303
+b01,smart switches,india,15/03/2023,vit,542,sw101
+a01,smart switches,united kingdom,3/1/2023,london,402,sw303
+c01,smart switches,india,4/02/2023,vit,468,sw303
+b02,smart switches,norway,24/2/2023,loften,467,sw101
+a01,router,usa,4/02/2023,newyork,517,sw202
+b01,router,vietnam,4/2/2023,vietnam-city,522,sw303
+a01,router,norway,28/01/2023,loften,439,sw202
+a01,router,united kingdom,30/02/2023,london,540,sw202
+b01,router,vietnam,19/2/2023,vietnam-city,414,sw101
+b01,smart switches,usa,11/1/2023,newyork,483,sw303
+a02,smart switches,usa,17/1/2023,california,545,sw303
+b01,router,usa,25/3/2023,newyork,544,sw303
+a01,smart switches,usa,9/01/2023,california,548,sw101
+a01,smart switches,norway,25/1/2023,loften,405,sw101
+c02,router,india,18/02/2023,vellore,556,sw101
+a01,router,norway,8/2/2023,loften,449,sw303
+b02,router,usa,27/3/2023,newyork,510,sw101
+a01,smart switches,norway,17/03/2023,loften,592,sw101
+b01,smart switches,vietnam,14/01/2023,vietnam-city,445,sw101
+a01,smart switches,vietnam,7/03/2023,vietnam-city,416,sw202
+c01,router,united kingdom,19/03/2023,london,592,sw303
+a02,smart switches,india,28/03/2023,vellore,594,sw101
+a01,smart switches,usa,17/2/2023,newyork,440,sw303
+b02,router,united kingdom,10/1/2023,london,504,sw101
+b02,smart switches,usa,5/1/2023,newyork,528,sw101
+b01,smart switches,india,27/03/2023,vellore,575,sw202
+b01,smart switches,united kingdom,1/2/2023,london,452,sw101
+a02,smart switches,united kingdom,28/01/2023,london,531,sw202
+b02,smart switches,usa,14/2/2023,newyork,596,sw202
+a02,smart switches,india,24/03/2023,vellore,457,sw202
+b01,smart switches,india,22/03/2023,vellore,578,sw101
+b01,smart switches,united kingdom,2/3/2023,london,501,sw303
+c01,router,norway,8/2/2023,loften,517,sw303
+b01,router,united kingdom,28/3/2023,london,441,sw303
+a02,router,norway,23/02/2023,loften,475,sw101
+b02,router,india,29/03/2023,vit,524,sw202
+b02,smart switches,norway,5/01/2023,loften,599,sw202
+b01,router,usa,4/2/2023,newyork,403,sw101
+a01,smart switches,usa,16/02/2023,newyork,500,sw202
+a02,smart switches,vietnam,2/2/2023,vietnam-city,569,sw303
+b01,smart switches,united kingdom,24/3/2023,london,443,sw101
+c02,smart switches,india,27/02/2023,vellore,588,sw303
+a02,smart switches,usa,17/2/2023,newyork,427,sw303
+c02,smart switches,united kingdom,6/2/2023,london,430,sw101
+b01,router,norway,22/02/2023,loften,585,sw303
+b01,smart switches,usa,30/1/2023,california,444,sw101
+b01,router,usa,31/01/2023,california,457,sw202
+a01,smart switches,vietnam,26/1/2023,vietnam-city,565,sw303
+a02,smart switches,india,21/01/2023,vit,522,sw101
+c02,router,vietnam,3/2/2023,vietnam-city,449,sw202
+b01,smart switches,norway,18/3/2023,loften,548,sw101
+a02,smart switches,usa,18/03/2023,newyork,559,sw303
+b02,router,vietnam,9/3/2023,vietnam-city,553,sw101
+a02,smart switches,united kingdom,12/01/2023,london,415,sw101
+c02,router,usa,19/1/2023,california,448,sw303
+c01,router,norway,2/02/2023,loften,553,sw101
+c02,smart switches,usa,18/2/2023,california,587,sw202
+c02,router,united kingdom,30/1/2023,london,533,sw101
+c02,smart switches,usa,1/3/2023,california,433,sw101
+b02,router,norway,28/2/2023,loften,419,sw303
+b01,router,vietnam,11/1/2023,vietnam-city,498,sw303
+a01,smart switches,vietnam,12/1/2023,vietnam-city,432,sw303
+a02,router,vietnam,12/02/2023,vietnam-city,474,sw303
+a02,router,vietnam,8/03/2023,vietnam-city,409,sw101
+a01,smart switches,norway,12/2/2023,loften,463,sw202
+a02,router,usa,1/1/2023,newyork,446,sw202
+a01,smart switches,united kingdom,9/02/2023,london,548,sw303
+c02,router,usa,20/3/2023,california,485,sw303
+b01,smart switches,united kingdom,5/01/2023,london,529,sw202
+c01,smart switches,vietnam,5/2/2023,vietnam-city,586,sw303
+a01,router,united kingdom,2/03/2023,london,417,sw101
+c01,router,united kingdom,17/01/2023,london,552,sw101
+b01,router,vietnam,20/2/2023,vietnam-city,446,sw101
+a02,smart switches,vietnam,5/2/2023,vietnam-city,565,sw303
+a01,smart switches,norway,19/01/2023,loften,506,sw202
+b02,smart switches,india,18/2/2023,vit,418,sw202
+b01,smart switches,usa,29/1/2023,california,586,sw202
+b01,router,norway,12/02/2023,loften,470,sw101
+b01,router,usa,3/1/2023,newyork,536,sw202
+a02,smart switches,india,11/2/2023,vellore,407,sw101
+c02,router,usa,17/3/2023,california,589,sw303
+c01,smart switches,norway,4/1/2023,loften,438,sw303
+b02,smart switches,norway,18/02/2023,loften,582,sw202
+c01,router,norway,3/03/2023,loften,476,sw202
+c02,smart switches,india,1/02/2023,vellore,467,sw202
+c02,smart switches,india,24/3/2023,vellore,412,sw303
+c02,smart switches,united kingdom,13/2/2023,london,519,sw303
+b01,router,vietnam,12/3/2023,vietnam-city,573,sw101
+b01,smart switches,united kingdom,27/01/2023,london,417,sw303
+b01,router,usa,25/1/2023,california,464,sw303
+a02,smart switches,united kingdom,29/03/2023,london,470,sw101
+a02,smart switches,vietnam,14/03/2023,vietnam-city,409,sw101
+c01,smart switches,vietnam,2/01/2023,vietnam-city,564,sw303
+b01,smart switches,usa,8/3/2023,newyork,584,sw101
+a01,smart switches,india,7/2/2023,vellore,527,sw202
+c01,smart switches,usa,20/02/2023,newyork,493,sw202
+b02,smart switches,india,19/03/2023,vit,584,sw303
+c01,router,vietnam,23/3/2023,vietnam-city,491,sw303
+b02,smart switches,usa,15/01/2023,california,409,sw303
+a01,smart switches,india,8/1/2023,vit,508,sw303
+a02,router,norway,11/1/2023,loften,494,sw101
+c02,router,united kingdom,13/2/2023,london,402,sw101
+b01,router,united kingdom,3/1/2023,london,523,sw101
+c02,smart switches,united kingdom,19/03/2023,london,441,sw303
+b02,smart switches,usa,6/2/2023,california,428,sw303
+b01,router,vietnam,17/1/2023,vietnam-city,489,sw101
+a02,smart switches,usa,28/2/2023,california,482,sw101
+a02,smart switches,vietnam,25/2/2023,vietnam-city,445,sw303
+b01,router,vietnam,18/2/2023,vietnam-city,415,sw202
+b01,smart switches,india,29/02/2023,vit,502,sw202
+a02,router,norway,30/3/2023,loften,587,sw303
+b02,router,united kingdom,8/03/2023,london,463,sw101
+c01,router,usa,28/02/2023,newyork,534,sw101
+a02,router,norway,6/2/2023,loften,565,sw303
+c02,smart switches,united kingdom,25/01/2023,london,582,sw202
+b01,smart switches,united kingdom,11/2/2023,london,460,sw202
+a01,router,vietnam,17/1/2023,vietnam-city,496,sw202
+b02,router,vietnam,27/3/2023,vietnam-city,521,sw303
+a01,smart switches,united kingdom,29/3/2023,london,429,sw202
+a02,router,united kingdom,8/03/2023,london,495,sw101
+a01,smart switches,vietnam,18/03/2023,vietnam-city,594,sw303
+a02,smart switches,united kingdom,24/2/2023,london,440,sw101
+b01,router,india,24/02/2023,vit,467,sw101
+b01,router,usa,19/03/2023,newyork,524,sw202
+a01,smart switches,norway,30/02/2023,loften,448,sw202
+b02,router,united kingdom,24/02/2023,london,586,sw101
+c02,smart switches,norway,28/01/2023,loften,406,sw101
+b01,router,india,21/2/2023,vellore,571,sw202
+b02,smart switches,usa,29/03/2023,california,571,sw303
+a02,router,usa,28/01/2023,newyork,408,sw101
+a01,smart switches,vietnam,18/1/2023,vietnam-city,539,sw303
+c01,smart switches,united kingdom,4/2/2023,london,409,sw101
+b02,smart switches,usa,26/02/2023,california,502,sw101
+a01,router,usa,19/01/2023,california,465,sw101
+b02,router,united kingdom,30/01/2023,london,570,sw303
+b01,smart switches,vietnam,18/2/2023,vietnam-city,583,sw101
+a01,smart switches,vietnam,12/03/2023,vietnam-city,468,sw202
+a01,router,united kingdom,10/2/2023,london,412,sw303
+a02,smart switches,india,6/1/2023,vit,493,sw303
+a01,router,united kingdom,19/02/2023,london,557,sw101
+a02,router,usa,8/02/2023,california,478,sw202
+c01,smart switches,vietnam,14/2/2023,vietnam-city,403,sw202
+b02,router,india,4/01/2023,vellore,460,sw202
+a01,smart switches,india,6/2/2023,vellore,520,sw303
+a02,smart switches,united kingdom,22/1/2023,london,558,sw202
+a02,smart switches,vietnam,17/2/2023,vietnam-city,563,sw101
+b02,router,india,26/01/2023,vit,552,sw303
+a02,router,india,23/02/2023,vellore,594,sw303
+c01,router,vietnam,10/3/2023,vietnam-city,464,sw303
+b02,smart switches,india,26/01/2023,vit,594,sw101
+b02,smart switches,india,8/1/2023,vellore,502,sw202
+c02,smart switches,india,23/2/2023,vellore,560,sw101
+a01,smart switches,india,30/3/2023,vellore,458,sw303
+b02,router,vietnam,29/3/2023,vietnam-city,414,sw101
+a01,router,united kingdom,12/01/2023,london,415,sw202
+b01,router,usa,12/2/2023,newyork,531,sw202
+a02,router,usa,31/2/2023,california,512,sw101
+b02,smart switches,vietnam,27/02/2023,vietnam-city,521,sw303
+b02,router,vietnam,8/2/2023,vietnam-city,518,sw101
+b01,router,usa,31/02/2023,newyork,586,sw101
+c02,smart switches,usa,3/03/2023,california,556,sw202
+c02,router,vietnam,12/1/2023,vietnam-city,524,sw303
+a01,router,vietnam,4/1/2023,vietnam-city,499,sw101
+c02,router,united kingdom,17/1/2023,london,454,sw202
+a02,router,usa,6/03/2023,california,409,sw303
+c02,smart switches,usa,20/2/2023,newyork,490,sw101
+b01,smart switches,norway,10/03/2023,loften,593,sw101
+c01,smart switches,norway,27/02/2023,loften,539,sw303
+b01,router,usa,21/01/2023,california,463,sw202
+c01,smart switches,norway,9/2/2023,loften,578,sw202
+b01,router,india,1/3/2023,vellore,483,sw202
+c02,router,vietnam,1/01/2023,vietnam-city,502,sw101
+a01,router,norway,8/3/2023,loften,550,sw202
+c02,router,vietnam,11/02/2023,vietnam-city,441,sw202
+b02,smart switches,united kingdom,5/02/2023,london,442,sw303
+a01,router,usa,17/2/2023,newyork,458,sw101
+a01,smart switches,norway,8/1/2023,loften,513,sw101
+b01,smart switches,united kingdom,6/3/2023,london,420,sw303
+a02,smart switches,india,10/1/2023,vit,600,sw303
+c02,router,norway,1/2/2023,loften,427,sw202
+c02,router,usa,3/3/2023,newyork,410,sw101
+b02,smart switches,united kingdom,30/2/2023,london,536,sw202
+a01,smart switches,united kingdom,30/1/2023,london,427,sw303
+a01,smart switches,norway,4/2/2023,loften,402,sw101
+a02,router,norway,10/3/2023,loften,443,sw202
+b01,router,vietnam,14/01/2023,vietnam-city,531,sw202
+a02,router,usa,31/03/2023,newyork,555,sw101
+c01,router,united kingdom,4/2/2023,london,550,sw101
+a02,router,united kingdom,3/1/2023,london,565,sw101
+c01,router,india,23/2/2023,vellore,546,sw303
+b02,smart switches,norway,9/01/2023,loften,542,sw202
+a02,smart switches,united kingdom,12/3/2023,london,464,sw101
+a01,smart switches,vietnam,10/02/2023,vietnam-city,415,sw303
+b01,smart switches,india,18/3/2023,vit,486,sw101
+a01,smart switches,vietnam,19/2/2023,vietnam-city,597,sw202
+a01,smart switches,usa,13/2/2023,newyork,551,sw303
+b02,router,norway,9/1/2023,loften,592,sw303
+a02,router,norway,21/3/2023,loften,564,sw202
+b01,router,norway,7/02/2023,loften,436,sw303
+c02,router,norway,20/3/2023,loften,462,sw202
+c01,router,india,30/01/2023,vellore,515,sw101
+a02,router,norway,5/1/2023,loften,539,sw101
+b02,router,norway,30/2/2023,loften,504,sw101
+a02,router,vietnam,30/01/2023,vietnam-city,555,sw303
+a01,smart switches,india,1/3/2023,vellore,424,sw101
+b02,router,norway,11/02/2023,loften,453,sw303
+b01,smart switches,usa,21/03/2023,california,541,sw101
+c02,smart switches,vietnam,6/01/2023,vietnam-city,500,sw101
+c02,router,india,11/03/2023,vit,497,sw101
+b01,router,united kingdom,7/03/2023,london,404,sw101
+c01,smart switches,united kingdom,27/02/2023,london,416,sw303
+b01,router,usa,13/01/2023,california,403,sw101
+c02,router,united kingdom,27/03/2023,london,497,sw303
+a01,router,vietnam,7/03/2023,vietnam-city,445,sw101
+a02,router,usa,22/03/2023,newyork,567,sw303
+b01,smart switches,vietnam,26/03/2023,vietnam-city,581,sw303
+a02,router,india,16/1/2023,vellore,420,sw101
+c02,smart switches,india,9/02/2023,vit,435,sw303
+a01,router,vietnam,17/3/2023,vietnam-city,549,sw202
+b01,router,norway,4/01/2023,loften,499,sw101
+b01,smart switches,india,23/3/2023,vit,494,sw303
+b01,smart switches,vietnam,20/3/2023,vietnam-city,507,sw101
+a02,router,norway,28/03/2023,loften,513,sw202
+a01,smart switches,norway,11/01/2023,loften,490,sw202
+c01,router,india,30/3/2023,vellore,492,sw101
+b02,smart switches,norway,10/03/2023,loften,547,sw202
+a02,router,vietnam,28/3/2023,vietnam-city,450,sw101
+c02,smart switches,united kingdom,30/01/2023,london,419,sw202
+c02,router,norway,5/02/2023,loften,570,sw202
+c01,router,norway,4/2/2023,loften,486,sw202
+a02,smart switches,india,25/3/2023,vellore,423,sw303
+c01,router,india,17/03/2023,vit,442,sw202
+b02,smart switches,vietnam,1/3/2023,vietnam-city,529,sw101
+a01,smart switches,united kingdom,4/2/2023,london,508,sw101
+c02,smart switches,usa,30/2/2023,newyork,500,sw303
+b01,router,vietnam,6/03/2023,vietnam-city,408,sw303
+a02,router,india,9/2/2023,vellore,591,sw202
+c01,smart switches,vietnam,13/02/2023,vietnam-city,411,sw303
+c02,router,india,26/3/2023,vit,403,sw101
+c02,smart switches,india,28/1/2023,vit,491,sw303
+b01,smart switches,india,21/1/2023,vellore,445,sw303
+a02,smart switches,united kingdom,11/1/2023,london,512,sw303
+c01,smart switches,usa,30/2/2023,newyork,423,sw101
+c02,router,usa,5/1/2023,california,416,sw202
+a02,smart switches,usa,31/2/2023,california,597,sw202
+c02,router,united kingdom,23/02/2023,london,516,sw101
+a01,smart switches,norway,31/01/2023,loften,561,sw303
+c02,smart switches,united kingdom,15/01/2023,london,442,sw303
+c02,router,norway,2/1/2023,loften,414,sw303
+c01,smart switches,norway,3/03/2023,loften,565,sw101
+c02,smart switches,usa,16/03/2023,california,588,sw101
+c02,smart switches,vietnam,13/1/2023,vietnam-city,450,sw202
+c02,smart switches,united kingdom,26/01/2023,london,590,sw101
+a01,router,vietnam,28/03/2023,vietnam-city,583,sw303
+a02,smart switches,united kingdom,28/03/2023,london,430,sw303
+b01,smart switches,usa,18/2/2023,california,458,sw101
+a02,router,india,16/3/2023,vellore,547,sw101
+b01,smart switches,united kingdom,18/2/2023,london,500,sw101
+c02,router,usa,18/1/2023,california,508,sw202
+b01,smart switches,norway,7/3/2023,loften,496,sw101
+a02,smart switches,usa,15/2/2023,california,470,sw303
+a01,router,vietnam,20/2/2023,vietnam-city,489,sw101
+b02,router,norway,19/02/2023,loften,461,sw202
+b01,smart switches,united kingdom,25/2/2023,london,531,sw303
+b01,router,india,31/03/2023,vellore,497,sw101
+b02,router,united kingdom,18/01/2023,london,546,sw202
+b01,router,vietnam,9/01/2023,vietnam-city,579,sw101
+c01,smart switches,india,7/02/2023,vellore,566,sw303
+b02,smart switches,united kingdom,4/01/2023,london,583,sw202
+b01,router,vietnam,28/1/2023,vietnam-city,574,sw202
+b02,router,norway,17/01/2023,loften,569,sw101
+b02,router,india,12/2/2023,vellore,561,sw303
+b01,router,vietnam,21/1/2023,vietnam-city,581,sw202
+c02,smart switches,united kingdom,7/03/2023,london,520,sw303
+c02,router,vietnam,1/2/2023,vietnam-city,518,sw202
+b02,router,usa,5/03/2023,california,502,sw202
+a01,router,vietnam,25/01/2023,vietnam-city,478,sw303
+b02,smart switches,india,9/3/2023,vit,422,sw202
+c02,smart switches,norway,15/01/2023,loften,527,sw303
+b02,router,norway,28/01/2023,loften,439,sw101
+b02,router,india,14/3/2023,vit,530,sw101
+c01,router,india,27/01/2023,vit,593,sw101
+b01,smart switches,vietnam,15/1/2023,vietnam-city,572,sw303
+b02,smart switches,united kingdom,15/2/2023,london,520,sw101
+b02,smart switches,united kingdom,7/03/2023,london,412,sw202
+b01,smart switches,vietnam,16/03/2023,vietnam-city,416,sw202
+c02,smart switches,norway,18/2/2023,loften,591,sw202
+a01,router,united kingdom,23/1/2023,london,413,sw202
+c02,smart switches,india,28/01/2023,vit,559,sw303
+b01,router,india,11/02/2023,vellore,582,sw202
+c01,smart switches,usa,5/1/2023,california,455,sw303
+a02,router,india,27/01/2023,vit,516,sw202
+c01,router,united kingdom,26/2/2023,london,416,sw303
+b02,smart switches,india,1/2/2023,vit,536,sw202
+c01,router,india,10/3/2023,vit,431,sw101
+b02,smart switches,usa,23/1/2023,newyork,470,sw303
+a02,router,vietnam,7/2/2023,vietnam-city,534,sw202
+a02,router,usa,14/1/2023,california,435,sw202
+a01,router,usa,23/1/2023,newyork,483,sw202
+b02,router,india,29/03/2023,vellore,406,sw303
+c02,router,india,19/01/2023,vellore,474,sw202
+b02,router,norway,7/3/2023,loften,454,sw202
+b01,router,united kingdom,15/01/2023,london,544,sw101
+a01,smart switches,united kingdom,10/01/2023,london,559,sw101
+c01,router,united kingdom,2/1/2023,london,491,sw101
+a02,router,norway,21/02/2023,loften,456,sw101
+c02,smart switches,vietnam,18/01/2023,vietnam-city,532,sw202
+a01,router,india,29/2/2023,vellore,584,sw101
+a01,smart switches,usa,27/1/2023,newyork,540,sw101
+c02,router,india,1/1/2023,vit,437,sw202
+c01,router,norway,23/02/2023,loften,507,sw101
+c01,smart switches,vietnam,28/1/2023,vietnam-city,542,sw101
+c01,router,norway,27/02/2023,loften,439,sw202
+b02,router,usa,4/2/2023,california,459,sw101
+c02,router,united kingdom,15/02/2023,london,597,sw101
+a01,smart switches,vietnam,26/02/2023,vietnam-city,474,sw101
+a02,router,vietnam,22/01/2023,vietnam-city,567,sw303
+b02,smart switches,usa,5/02/2023,newyork,554,sw303
+a02,router,usa,24/3/2023,california,456,sw202
+b01,smart switches,norway,16/02/2023,loften,449,sw101
+b02,smart switches,india,24/2/2023,vellore,426,sw101
+c01,router,norway,31/03/2023,loften,490,sw202
+b01,smart switches,india,22/3/2023,vellore,556,sw101
+b02,router,vietnam,25/2/2023,vietnam-city,564,sw303
+c02,router,vietnam,20/2/2023,vietnam-city,592,sw101
+c01,router,vietnam,8/01/2023,vietnam-city,582,sw101
+c02,smart switches,usa,7/01/2023,newyork,482,sw202
+a01,router,vietnam,6/03/2023,vietnam-city,491,sw202
+b02,router,india,25/03/2023,vit,482,sw202
+c01,router,usa,21/01/2023,newyork,581,sw101
+a01,router,vietnam,22/02/2023,vietnam-city,492,sw101
+c01,router,norway,20/03/2023,loften,428,sw303
+c02,router,india,6/02/2023,vellore,445,sw101
+b02,router,norway,22/2/2023,loften,525,sw101
+b02,smart switches,united kingdom,7/2/2023,london,531,sw101
+a01,router,india,31/02/2023,vellore,544,sw202
+b01,smart switches,vietnam,22/3/2023,vietnam-city,466,sw202
+a01,router,vietnam,24/1/2023,vietnam-city,514,sw202
+a02,smart switches,norway,7/1/2023,loften,555,sw101
+a02,router,usa,31/3/2023,newyork,586,sw303
+c02,router,norway,17/02/2023,loften,593,sw303
+c02,router,usa,13/3/2023,california,462,sw303
+c01,router,norway,14/03/2023,loften,485,sw101
+a02,smart switches,norway,4/03/2023,loften,427,sw202
+b01,router,india,14/2/2023,vellore,454,sw202
+a01,router,norway,27/03/2023,loften,407,sw303
+c02,smart switches,vietnam,19/1/2023,vietnam-city,429,sw303
+b01,router,india,30/1/2023,vellore,537,sw202
+a01,router,united kingdom,26/02/2023,london,467,sw101
+a02,smart switches,vietnam,28/2/2023,vietnam-city,430,sw303
+a02,router,norway,29/03/2023,loften,406,sw101
+a02,smart switches,united kingdom,22/03/2023,london,466,sw202
+b01,smart switches,united kingdom,26/2/2023,london,442,sw303
+c01,smart switches,norway,13/02/2023,loften,433,sw101
+c02,smart switches,usa,31/03/2023,california,592,sw101
+b02,smart switches,united kingdom,11/03/2023,london,401,sw101
+a02,smart switches,vietnam,2/2/2023,vietnam-city,481,sw303
+c02,router,united kingdom,12/02/2023,london,571,sw303
+c01,smart switches,united kingdom,14/03/2023,london,487,sw101
+b02,router,united kingdom,13/1/2023,london,431,sw303
+c01,smart switches,vietnam,6/3/2023,vietnam-city,596,sw101
+c01,smart switches,vietnam,21/01/2023,vietnam-city,580,sw303
+a01,smart switches,india,25/2/2023,vit,558,sw202
+c01,router,vietnam,8/2/2023,vietnam-city,482,sw202
+a02,router,norway,22/3/2023,loften,451,sw303
+b01,smart switches,usa,13/3/2023,california,568,sw303
+c01,router,vietnam,10/02/2023,vietnam-city,562,sw202
+a01,smart switches,united kingdom,21/3/2023,london,446,sw202
+a01,smart switches,usa,24/03/2023,california,571,sw101
+a01,router,united kingdom,19/02/2023,london,401,sw101
+b01,router,usa,9/1/2023,newyork,473,sw303
+a01,smart switches,united kingdom,16/01/2023,london,509,sw202
+b02,router,usa,27/02/2023,california,403,sw303
+b01,smart switches,usa,31/01/2023,california,487,sw303
+b02,router,vietnam,21/2/2023,vietnam-city,503,sw101
+b02,router,norway,25/03/2023,loften,500,sw202
+c02,router,india,3/01/2023,vit,545,sw202
+a02,smart switches,india,28/2/2023,vellore,570,sw303
+c01,smart switches,india,20/1/2023,vit,568,sw101
+b02,smart switches,india,2/03/2023,vit,593,sw202
+a01,smart switches,usa,19/2/2023,california,435,sw101
+a02,router,usa,6/2/2023,california,594,sw101
+c02,router,usa,3/02/2023,california,588,sw202
+b02,router,norway,21/1/2023,loften,417,sw303
+c02,smart switches,india,31/03/2023,vit,511,sw202
+b01,router,united kingdom,16/3/2023,london,512,sw101
+c01,router,vietnam,8/03/2023,vietnam-city,536,sw101
+b02,smart switches,united kingdom,4/3/2023,london,498,sw303
+b02,smart switches,united kingdom,17/3/2023,london,490,sw101
+c01,smart switches,norway,4/1/2023,loften,547,sw303
+c01,smart switches,india,10/02/2023,vit,420,sw303
+c02,router,india,10/01/2023,vellore,465,sw101
+b02,smart switches,india,28/1/2023,vellore,412,sw303
+b01,smart switches,india,26/03/2023,vellore,468,sw303
+a02,smart switches,usa,17/3/2023,california,413,sw303
+a02,router,norway,26/1/2023,loften,447,sw202
+b02,smart switches,india,30/03/2023,vit,489,sw303
+b01,smart switches,norway,5/3/2023,loften,438,sw101
+c02,router,vietnam,23/2/2023,vietnam-city,424,sw303
+c02,smart switches,norway,3/01/2023,loften,485,sw303
+b02,router,norway,30/01/2023,loften,488,sw101
+a02,router,vietnam,29/03/2023,vietnam-city,523,sw303
+a01,smart switches,vietnam,28/3/2023,vietnam-city,479,sw303
+c01,smart switches,india,7/03/2023,vellore,481,sw202
+c01,smart switches,vietnam,11/01/2023,vietnam-city,417,sw202
+a01,smart switches,united kingdom,30/02/2023,london,496,sw101
+b01,smart switches,usa,8/03/2023,california,563,sw202
+b01,router,united kingdom,20/03/2023,london,531,sw202
+b02,smart switches,norway,7/01/2023,loften,522,sw303
+a01,smart switches,india,25/03/2023,vit,579,sw202
+a02,smart switches,india,22/3/2023,vellore,540,sw202
+c01,router,india,1/2/2023,vit,489,sw303
+a02,smart switches,usa,6/2/2023,california,415,sw303
+c01,router,united kingdom,13/02/2023,london,442,sw202
+a01,router,norway,6/2/2023,loften,553,sw303
+c02,router,india,26/3/2023,vit,507,sw303
+c01,smart switches,usa,28/03/2023,california,447,sw202
+c01,router,vietnam,6/1/2023,vietnam-city,583,sw202
+a02,router,united kingdom,12/2/2023,london,437,sw101
+b01,router,usa,15/2/2023,newyork,574,sw202
+c01,router,india,7/02/2023,vit,482,sw202
+c02,smart switches,usa,12/2/2023,newyork,453,sw101
+c02,smart switches,norway,2/3/2023,loften,450,sw101
+c01,smart switches,united kingdom,15/1/2023,london,466,sw101
+b02,smart switches,united kingdom,3/03/2023,london,438,sw303
+b02,router,norway,4/1/2023,loften,410,sw202
+c02,router,united kingdom,9/02/2023,london,425,sw303
+a01,smart switches,united kingdom,8/2/2023,london,438,sw101
+b02,router,vietnam,18/01/2023,vietnam-city,439,sw202
+a02,router,vietnam,12/01/2023,vietnam-city,413,sw101
+c02,smart switches,india,12/01/2023,vellore,593,sw303
+b02,router,united kingdom,6/1/2023,london,549,sw303
+a02,smart switches,united kingdom,15/1/2023,london,414,sw101
+c01,smart switches,norway,19/1/2023,loften,486,sw303
+a02,smart switches,vietnam,14/1/2023,vietnam-city,522,sw101
+a01,router,united kingdom,8/1/2023,london,443,sw202
+c01,router,usa,3/1/2023,california,505,sw202
+a01,router,united kingdom,4/2/2023,london,463,sw101
+b01,smart switches,usa,14/01/2023,california,530,sw303
+a02,smart switches,usa,7/02/2023,california,415,sw101
+c02,smart switches,norway,31/3/2023,loften,426,sw303
+b01,router,vietnam,25/02/2023,vietnam-city,459,sw303
+a02,router,norway,8/01/2023,loften,543,sw101
+b02,router,india,31/01/2023,vellore,497,sw303
+c01,router,norway,28/02/2023,loften,495,sw202
+b01,smart switches,united kingdom,24/3/2023,london,480,sw101
+a01,router,norway,5/1/2023,loften,593,sw101
+c02,router,usa,11/03/2023,newyork,572,sw303
+c01,smart switches,vietnam,31/01/2023,vietnam-city,564,sw303
+c02,smart switches,norway,28/1/2023,loften,411,sw303
+a02,router,norway,8/3/2023,loften,458,sw303
+c02,smart switches,vietnam,3/3/2023,vietnam-city,589,sw202
+b02,router,norway,8/3/2023,loften,456,sw101
+b02,router,united kingdom,6/01/2023,london,440,sw303
+c01,smart switches,usa,17/03/2023,california,520,sw101
+c01,router,india,13/03/2023,vellore,500,sw202
+a02,router,usa,25/02/2023,california,478,sw101
+a02,smart switches,usa,27/01/2023,california,448,sw202
+b01,router,vietnam,17/3/2023,vietnam-city,424,sw202
+a02,smart switches,india,9/1/2023,vit,437,sw101
+a01,smart switches,usa,12/01/2023,newyork,598,sw202
+a02,smart switches,usa,2/02/2023,newyork,425,sw303
+c01,smart switches,usa,16/01/2023,california,431,sw101
+c01,smart switches,norway,4/2/2023,loften,431,sw101
+c02,smart switches,india,12/02/2023,vellore,442,sw101
+c01,smart switches,vietnam,8/01/2023,vietnam-city,416,sw303
+b02,router,india,27/03/2023,vellore,556,sw202
+a01,router,norway,29/3/2023,loften,546,sw101
+c02,router,norway,8/01/2023,loften,517,sw303
+b02,smart switches,usa,15/03/2023,california,474,sw202
+a02,router,norway,8/2/2023,loften,400,sw303
+b01,smart switches,usa,28/02/2023,california,520,sw101
+c01,smart switches,norway,4/2/2023,loften,590,sw202
+a02,smart switches,vietnam,14/3/2023,vietnam-city,596,sw101
+c02,smart switches,vietnam,28/2/2023,vietnam-city,423,sw303
+a02,smart switches,united kingdom,24/01/2023,london,435,sw101
+c02,smart switches,norway,22/1/2023,loften,559,sw303
+b01,router,norway,22/03/2023,loften,443,sw101
+c01,smart switches,united kingdom,18/03/2023,london,450,sw202
+c02,smart switches,india,26/03/2023,vit,537,sw101
+c01,router,india,17/01/2023,vit,426,sw202
+b02,router,vietnam,10/2/2023,vietnam-city,410,sw101
+a02,router,vietnam,22/3/2023,vietnam-city,419,sw202
+c02,smart switches,usa,14/3/2023,newyork,444,sw202
+a01,smart switches,india,25/2/2023,vellore,521,sw202
+a01,router,vietnam,31/02/2023,vietnam-city,400,sw101
+b01,smart switches,usa,29/3/2023,california,554,sw303
+c02,smart switches,india,4/03/2023,vellore,491,sw202
+a02,smart switches,india,18/2/2023,vellore,461,sw202
+a01,router,usa,8/01/2023,california,512,sw303
+c02,router,united kingdom,17/1/2023,london,535,sw303
+c01,smart switches,vietnam,11/3/2023,vietnam-city,529,sw303
+c02,smart switches,usa,27/1/2023,california,452,sw303
+c01,smart switches,norway,24/02/2023,loften,487,sw101
+b01,smart switches,vietnam,10/01/2023,vietnam-city,477,sw303
+c01,smart switches,usa,31/1/2023,newyork,473,sw101
+a02,router,usa,2/3/2023,newyork,566,sw303
+c02,router,india,28/3/2023,vit,425,sw101
+a02,router,india,29/01/2023,vit,577,sw303
+c02,router,india,15/1/2023,vellore,545,sw303
+b02,smart switches,india,30/2/2023,vit,477,sw101
+c02,smart switches,india,30/03/2023,vit,480,sw101
+c01,smart switches,united kingdom,28/03/2023,london,572,sw202
+c02,router,india,13/1/2023,vellore,465,sw101
+c02,router,united kingdom,18/01/2023,london,432,sw303
+b01,router,india,31/3/2023,vellore,430,sw303
+a01,router,norway,18/02/2023,loften,444,sw303
+c02,router,india,10/01/2023,vit,493,sw101
+b01,router,india,20/01/2023,vit,550,sw202
+c02,router,usa,18/03/2023,newyork,528,sw303
+a02,smart switches,united kingdom,17/01/2023,london,499,sw303
+a02,router,usa,16/03/2023,newyork,520,sw202
+b02,smart switches,united kingdom,21/2/2023,london,580,sw101
+c01,smart switches,usa,6/01/2023,california,586,sw202
+b02,smart switches,vietnam,31/1/2023,vietnam-city,434,sw202
+a01,router,norway,6/03/2023,loften,428,sw101
+b02,router,norway,10/03/2023,loften,513,sw303
+a01,smart switches,vietnam,31/01/2023,vietnam-city,414,sw101
+c01,smart switches,vietnam,27/01/2023,vietnam-city,432,sw202
+a01,router,india,17/01/2023,vit,446,sw101
+a01,router,norway,7/01/2023,loften,538,sw303
+c01,smart switches,united kingdom,14/01/2023,london,468,sw101
+c02,smart switches,usa,24/1/2023,newyork,486,sw303
+a01,router,vietnam,26/03/2023,vietnam-city,442,sw303
+b01,router,vietnam,18/3/2023,vietnam-city,458,sw202
+a01,router,usa,19/01/2023,newyork,456,sw101
+b02,router,united kingdom,27/01/2023,london,479,sw101
+a01,router,india,22/02/2023,vit,444,sw101
+a02,router,norway,1/1/2023,loften,502,sw202
+c01,router,vietnam,30/1/2023,vietnam-city,524,sw202
+b02,router,united kingdom,12/02/2023,london,522,sw202
+b01,router,norway,9/2/2023,loften,497,sw202
+c02,smart switches,usa,20/3/2023,california,489,sw303
+b02,smart switches,usa,3/02/2023,california,564,sw101
+c02,smart switches,india,1/1/2023,vit,539,sw101
+a01,router,vietnam,23/03/2023,vietnam-city,420,sw202
+c01,smart switches,india,26/01/2023,vellore,509,sw202
+b01,smart switches,norway,18/01/2023,loften,595,sw202
+a02,smart switches,norway,17/02/2023,loften,424,sw101
+b01,router,norway,13/2/2023,loften,445,sw101
+c02,smart switches,vietnam,7/1/2023,vietnam-city,448,sw303
+a01,smart switches,india,7/01/2023,vit,594,sw202
+b02,router,united kingdom,2/01/2023,london,526,sw101
+b02,router,usa,16/3/2023,newyork,594,sw202
+b01,router,vietnam,2/01/2023,vietnam-city,522,sw303
+c01,router,india,17/1/2023,vellore,531,sw202
+a01,router,vietnam,11/2/2023,vietnam-city,532,sw202
+b01,router,norway,19/01/2023,loften,573,sw101
+c02,router,india,18/2/2023,vit,599,sw202
+a01,smart switches,united kingdom,13/3/2023,london,459,sw101
+c01,router,norway,29/2/2023,loften,460,sw202
+b01,smart switches,india,9/03/2023,vit,502,sw202
+a02,smart switches,usa,28/1/2023,newyork,457,sw303
+a01,smart switches,india,18/3/2023,vellore,458,sw101
+c02,router,india,8/02/2023,vit,565,sw101
+b01,smart switches,united kingdom,1/1/2023,london,587,sw101
+b01,smart switches,usa,28/2/2023,california,518,sw202
+c02,router,vietnam,1/02/2023,vietnam-city,410,sw303
+b02,smart switches,united kingdom,22/03/2023,london,539,sw101
+c01,smart switches,norway,29/03/2023,loften,468,sw101
+b01,smart switches,norway,18/3/2023,loften,468,sw202
+c01,smart switches,vietnam,1/3/2023,vietnam-city,505,sw202
+c02,smart switches,norway,29/02/2023,loften,428,sw101
+a02,smart switches,usa,26/2/2023,newyork,514,sw303
+c01,smart switches,india,4/02/2023,vit,412,sw101
+c02,router,norway,14/03/2023,loften,536,sw303
+b01,smart switches,united kingdom,13/2/2023,london,448,sw303
+c02,router,usa,12/2/2023,newyork,436,sw202
+c02,smart switches,vietnam,14/1/2023,vietnam-city,474,sw303
+a02,router,vietnam,11/3/2023,vietnam-city,445,sw101
+b01,router,united kingdom,17/1/2023,london,432,sw303
+b01,smart switches,india,26/01/2023,vit,423,sw202
+a02,smart switches,norway,8/2/2023,loften,581,sw101
+a01,smart switches,united kingdom,22/01/2023,london,514,sw101
+b02,router,norway,19/1/2023,loften,468,sw202
+c02,smart switches,norway,2/03/2023,loften,562,sw202
+a02,smart switches,usa,16/3/2023,california,523,sw202
+b02,router,india,12/01/2023,vellore,517,sw303
+c01,router,vietnam,21/03/2023,vietnam-city,529,sw101
+c01,smart switches,united kingdom,1/3/2023,london,461,sw202
+b02,smart switches,usa,28/03/2023,newyork,590,sw101
+c02,router,norway,15/1/2023,loften,572,sw303
+a01,router,india,6/03/2023,vellore,428,sw303
+c01,smart switches,india,5/02/2023,vellore,460,sw303
+b02,smart switches,vietnam,3/02/2023,vietnam-city,527,sw101
+c01,router,vietnam,26/3/2023,vietnam-city,408,sw303
+c01,router,united kingdom,30/02/2023,london,488,sw101
+a02,router,india,13/02/2023,vellore,535,sw303
+b01,router,norway,2/3/2023,loften,440,sw202
+b01,smart switches,united kingdom,11/03/2023,london,579,sw202
+a02,router,vietnam,14/03/2023,vietnam-city,431,sw303
+b02,router,usa,31/2/2023,newyork,536,sw202
+b01,smart switches,usa,13/1/2023,newyork,533,sw202
+c02,smart switches,india,12/03/2023,vellore,465,sw101
+c02,smart switches,vietnam,1/03/2023,vietnam-city,558,sw202
+b02,smart switches,india,1/1/2023,vit,514,sw101
+c01,router,usa,3/3/2023,california,479,sw303
+c02,smart switches,usa,15/3/2023,california,414,sw202
+b02,router,vietnam,28/2/2023,vietnam-city,441,sw202
+a01,smart switches,vietnam,24/01/2023,vietnam-city,440,sw303
+c02,router,usa,8/2/2023,california,542,sw303
+b02,router,vietnam,10/1/2023,vietnam-city,436,sw303
+c01,router,usa,21/01/2023,california,452,sw202
+b02,router,vietnam,5/03/2023,vietnam-city,477,sw202
+a01,router,vietnam,15/2/2023,vietnam-city,413,sw101
+c02,router,india,23/3/2023,vit,405,sw202
+a01,smart switches,india,2/1/2023,vit,415,sw101
+c02,smart switches,india,31/02/2023,vellore,563,sw101
+a02,smart switches,vietnam,10/03/2023,vietnam-city,487,sw202
+b01,router,norway,27/02/2023,loften,400,sw202
+a02,smart switches,united kingdom,6/03/2023,london,561,sw303
+a01,smart switches,india,15/02/2023,vellore,578,sw101
+c02,router,india,23/1/2023,vit,539,sw202
+b01,smart switches,norway,20/02/2023,loften,432,sw303
+a02,router,norway,8/01/2023,loften,479,sw202
+b02,smart switches,usa,11/1/2023,california,540,sw101
+a02,router,norway,23/02/2023,loften,555,sw101
+a02,router,united kingdom,31/03/2023,london,591,sw202
+a01,router,united kingdom,30/2/2023,london,517,sw101
+a01,router,vietnam,15/03/2023,vietnam-city,567,sw202
+a02,smart switches,vietnam,15/03/2023,vietnam-city,579,sw303
+b02,smart switches,usa,9/02/2023,newyork,407,sw202
+c01,smart switches,usa,17/2/2023,california,407,sw101
+a01,smart switches,united kingdom,27/02/2023,london,446,sw202
+b02,smart switches,usa,28/01/2023,newyork,593,sw202
+a01,router,norway,18/2/2023,loften,539,sw303
+a02,router,united kingdom,16/02/2023,london,402,sw303
+c02,router,united kingdom,15/01/2023,london,433,sw202
+b02,smart switches,norway,15/01/2023,loften,465,sw101
+a02,smart switches,india,24/03/2023,vit,474,sw202
+b01,router,norway,3/01/2023,loften,428,sw202
+c01,smart switches,usa,14/1/2023,california,566,sw303
+b01,smart switches,united kingdom,14/01/2023,london,477,sw101
+a02,router,usa,6/3/2023,newyork,442,sw101
+c01,smart switches,united kingdom,11/3/2023,london,443,sw202
+b02,smart switches,usa,7/1/2023,california,547,sw303
+a01,router,norway,15/1/2023,loften,474,sw202
+c01,router,norway,20/3/2023,loften,492,sw101
+a01,router,vietnam,28/2/2023,vietnam-city,495,sw101
+b01,smart switches,norway,9/1/2023,loften,422,sw202
+a02,smart switches,vietnam,12/02/2023,vietnam-city,568,sw101
+a01,smart switches,india,22/3/2023,vellore,559,sw303
+a01,smart switches,usa,31/3/2023,california,503,sw101
+b02,router,india,16/3/2023,vellore,534,sw202
+a01,router,usa,11/1/2023,newyork,513,sw303
+a01,smart switches,usa,6/02/2023,california,563,sw303
+a02,router,usa,4/03/2023,california,572,sw303
+c01,router,vietnam,25/1/2023,vietnam-city,429,sw202
+b02,router,norway,11/02/2023,loften,419,sw101
+c02,smart switches,usa,10/2/2023,newyork,409,sw202
+a02,smart switches,india,1/3/2023,vellore,497,sw202
+a01,router,usa,26/3/2023,california,411,sw202
+b02,smart switches,united kingdom,29/2/2023,london,551,sw101
+a01,smart switches,india,20/01/2023,vellore,566,sw101
+b01,smart switches,vietnam,25/2/2023,vietnam-city,424,sw101
+a02,router,norway,1/02/2023,loften,503,sw202
+b02,smart switches,india,14/01/2023,vellore,462,sw202
+a01,router,vietnam,2/03/2023,vietnam-city,593,sw202
+b02,smart switches,united kingdom,20/2/2023,london,479,sw101
+b02,smart switches,india,9/02/2023,vit,596,sw202
+b01,router,united kingdom,4/02/2023,london,412,sw101
+a01,router,usa,29/3/2023,california,558,sw202
+c01,router,vietnam,25/1/2023,vietnam-city,591,sw303
+b01,smart switches,vietnam,4/2/2023,vietnam-city,404,sw303
+a01,router,united kingdom,5/03/2023,london,474,sw202
+c02,router,india,7/2/2023,vellore,456,sw101
+c02,router,united kingdom,15/03/2023,london,557,sw101
+a02,smart switches,norway,1/1/2023,loften,431,sw101
+a01,router,norway,20/2/2023,loften,462,sw303
+b01,router,india,14/03/2023,vellore,528,sw303
+c02,smart switches,india,23/03/2023,vit,574,sw303
+c02,router,usa,29/02/2023,newyork,421,sw303
+c01,router,india,6/02/2023,vellore,450,sw303
+c02,smart switches,norway,23/02/2023,loften,468,sw303
+b02,router,usa,29/03/2023,california,440,sw303
+b01,router,norway,22/01/2023,loften,567,sw101
+b01,router,india,20/01/2023,vellore,581,sw303
+c02,router,usa,4/03/2023,california,419,sw303
+c01,smart switches,united kingdom,24/01/2023,london,464,sw101
+c01,router,usa,8/03/2023,newyork,439,sw101
+c02,router,united kingdom,17/2/2023,london,406,sw303
+a01,router,usa,9/01/2023,newyork,464,sw303
+a01,router,usa,15/1/2023,newyork,457,sw202
+c01,router,united kingdom,8/02/2023,london,546,sw303
+c01,smart switches,india,16/2/2023,vit,519,sw303
+a01,smart switches,vietnam,20/3/2023,vietnam-city,413,sw101
+a01,router,norway,19/1/2023,loften,493,sw101
+b02,router,india,27/3/2023,vellore,486,sw101
+b02,smart switches,vietnam,20/3/2023,vietnam-city,564,sw303
+a01,router,united kingdom,21/2/2023,london,471,sw303
+a01,router,vietnam,5/2/2023,vietnam-city,582,sw101
+b02,smart switches,norway,24/01/2023,loften,426,sw202
+c01,router,norway,24/01/2023,loften,537,sw303
+b02,smart switches,india,14/02/2023,vellore,562,sw303
+a02,smart switches,vietnam,19/1/2023,vietnam-city,536,sw303
+b01,router,united kingdom,13/1/2023,london,586,sw202
+b01,smart switches,norway,16/3/2023,loften,439,sw202
+a02,router,india,20/2/2023,vit,454,sw202
+a02,smart switches,norway,3/1/2023,loften,504,sw303
+b02,router,usa,23/1/2023,newyork,462,sw202
+c01,router,norway,5/1/2023,loften,415,sw303
+a01,smart switches,india,8/01/2023,vellore,425,sw202
+b02,smart switches,vietnam,24/2/2023,vietnam-city,579,sw101
+b02,router,vietnam,16/02/2023,vietnam-city,411,sw202
+b01,smart switches,united kingdom,15/3/2023,london,400,sw202
+b02,smart switches,norway,15/01/2023,loften,414,sw101
+b02,smart switches,vietnam,20/3/2023,vietnam-city,411,sw101
+a02,router,united kingdom,4/2/2023,london,445,sw202
+c01,smart switches,vietnam,19/02/2023,vietnam-city,404,sw303
+a02,smart switches,norway,15/03/2023,loften,527,sw101
+c01,smart switches,usa,8/01/2023,newyork,593,sw202
+b01,router,usa,1/02/2023,california,433,sw101
+a02,router,usa,20/1/2023,california,572,sw101
+c02,smart switches,india,3/2/2023,vit,401,sw101
+b01,router,norway,11/1/2023,loften,519,sw101
+b01,smart switches,usa,23/3/2023,newyork,469,sw303
+b02,router,norway,8/01/2023,loften,574,sw202
+a01,smart switches,vietnam,22/01/2023,vietnam-city,516,sw101
+b02,router,united kingdom,5/2/2023,london,479,sw101
+c01,router,usa,23/1/2023,newyork,512,sw202
+b01,router,norway,25/01/2023,loften,451,sw303
+a02,router,india,9/1/2023,vit,566,sw202
+b01,router,vietnam,24/01/2023,vietnam-city,595,sw303
+b02,router,usa,11/03/2023,california,521,sw202
+a02,smart switches,united kingdom,15/03/2023,london,498,sw101
+b02,smart switches,vietnam,12/03/2023,vietnam-city,422,sw303
+c02,smart switches,usa,30/3/2023,newyork,467,sw202
+c01,smart switches,india,1/1/2023,vit,517,sw101
+c02,smart switches,norway,2/03/2023,loften,544,sw101
+a02,router,vietnam,25/3/2023,vietnam-city,437,sw101
+a01,router,india,29/2/2023,vellore,557,sw101
+b01,smart switches,usa,27/3/2023,newyork,521,sw101
+b02,smart switches,norway,4/02/2023,loften,461,sw303
+c01,router,usa,26/3/2023,newyork,438,sw303
+c01,router,norway,17/3/2023,loften,552,sw202
+c01,smart switches,vietnam,6/01/2023,vietnam-city,533,sw202
+a02,router,india,8/2/2023,vit,533,sw202
+b02,router,usa,12/03/2023,newyork,401,sw303
+c02,smart switches,vietnam,1/3/2023,vietnam-city,499,sw101
+c02,smart switches,usa,14/03/2023,newyork,479,sw303
+c02,router,united kingdom,3/1/2023,london,570,sw303
+a02,router,norway,4/1/2023,loften,522,sw101
+b01,smart switches,usa,22/03/2023,newyork,558,sw202
+c02,smart switches,india,6/2/2023,vit,402,sw303
+c01,router,usa,3/2/2023,newyork,597,sw101
+a02,smart switches,vietnam,16/02/2023,vietnam-city,572,sw202
+b01,router,vietnam,20/02/2023,vietnam-city,578,sw101
+c02,router,norway,19/02/2023,loften,436,sw202
+b02,router,vietnam,18/01/2023,vietnam-city,599,sw101
+b01,router,usa,25/02/2023,newyork,474,sw101
+b01,router,united kingdom,1/03/2023,london,469,sw202
+c02,smart switches,usa,7/01/2023,california,495,sw202
+a01,router,united kingdom,24/02/2023,london,448,sw303
+c01,router,vietnam,9/02/2023,vietnam-city,542,sw303
+a01,smart switches,usa,29/1/2023,newyork,499,sw101
+a01,smart switches,norway,25/1/2023,loften,467,sw101
+b01,router,usa,20/01/2023,california,452,sw202
+c02,smart switches,norway,18/3/2023,loften,538,sw202
+c01,smart switches,united kingdom,12/2/2023,london,504,sw101
+a02,router,india,1/02/2023,vit,537,sw101
+c01,smart switches,united kingdom,12/03/2023,london,494,sw101
+a02,smart switches,india,9/02/2023,vit,519,sw303
+a01,smart switches,norway,29/3/2023,loften,460,sw202
+a01,router,norway,7/03/2023,loften,404,sw101
+b01,smart switches,usa,29/3/2023,newyork,519,sw202
+a01,smart switches,united kingdom,3/2/2023,london,499,sw303
+c02,smart switches,vietnam,31/03/2023,vietnam-city,461,sw303
+c01,smart switches,usa,24/03/2023,newyork,562,sw202
+c02,router,norway,11/02/2023,loften,526,sw303
+b02,router,norway,17/3/2023,loften,519,sw101
+c02,smart switches,united kingdom,10/1/2023,london,571,sw303
+c01,smart switches,india,18/1/2023,vit,587,sw303
+a01,smart switches,usa,23/3/2023,newyork,494,sw303
+a02,smart switches,usa,3/02/2023,california,426,sw101
+a02,router,india,5/3/2023,vit,537,sw101
+b02,router,usa,31/3/2023,california,541,sw303
+b02,router,vietnam,9/1/2023,vietnam-city,442,sw101
+a02,smart switches,vietnam,10/01/2023,vietnam-city,430,sw101
+b02,smart switches,vietnam,11/03/2023,vietnam-city,596,sw202
+c01,smart switches,vietnam,23/01/2023,vietnam-city,535,sw303
+c02,smart switches,india,31/2/2023,vit,422,sw202
+c01,smart switches,united kingdom,26/03/2023,london,420,sw101
+b02,router,united kingdom,7/03/2023,london,461,sw303
+c01,smart switches,norway,27/03/2023,loften,491,sw101
+c01,router,india,13/03/2023,vellore,478,sw202
+a01,router,usa,27/3/2023,newyork,558,sw303
+b02,router,vietnam,20/1/2023,vietnam-city,417,sw202
+c01,smart switches,norway,20/01/2023,loften,422,sw101
+c02,router,usa,6/01/2023,california,571,sw101
+a02,router,vietnam,1/03/2023,vietnam-city,576,sw202
+b01,smart switches,india,29/01/2023,vit,447,sw101
+b01,smart switches,norway,26/02/2023,loften,577,sw303
+b02,router,vietnam,1/01/2023,vietnam-city,569,sw101
+a02,router,norway,15/02/2023,loften,432,sw303
+a01,smart switches,united kingdom,17/1/2023,london,460,sw303
+b01,router,vietnam,12/1/2023,vietnam-city,487,sw303
+a01,router,united kingdom,4/2/2023,london,509,sw202
+c01,router,united kingdom,28/01/2023,london,447,sw101
+c01,smart switches,usa,19/02/2023,newyork,457,sw303
+a02,smart switches,vietnam,28/2/2023,vietnam-city,527,sw303
+a02,router,india,11/03/2023,vellore,564,sw202
+a01,smart switches,norway,10/03/2023,loften,585,sw202
+c02,smart switches,usa,28/01/2023,newyork,452,sw202
+b01,smart switches,vietnam,2/01/2023,vietnam-city,449,sw202
+b01,router,united kingdom,13/1/2023,london,583,sw101
+b01,smart switches,india,20/03/2023,vit,482,sw101
+a02,router,united kingdom,29/02/2023,london,401,sw202
+c01,smart switches,usa,5/01/2023,newyork,405,sw303
+c02,smart switches,india,14/2/2023,vit,422,sw303
+b01,router,united kingdom,11/02/2023,london,488,sw101
+c01,router,norway,29/3/2023,loften,456,sw303
+a01,smart switches,united kingdom,19/1/2023,london,414,sw202
+b02,router,vietnam,28/3/2023,vietnam-city,551,sw202
+c02,router,india,10/2/2023,vellore,429,sw202
+a01,smart switches,usa,28/2/2023,california,499,sw202
+a01,smart switches,united kingdom,4/2/2023,london,586,sw101
+b02,router,india,19/01/2023,vellore,445,sw202
+a02,smart switches,india,30/01/2023,vit,577,sw202
+c01,router,vietnam,8/03/2023,vietnam-city,537,sw101
+c01,smart switches,united kingdom,30/01/2023,london,481,sw303
+a01,smart switches,usa,21/01/2023,california,570,sw303
+b01,router,usa,19/03/2023,california,539,sw202
+c01,smart switches,united kingdom,1/02/2023,london,563,sw202
+b01,smart switches,vietnam,7/02/2023,vietnam-city,541,sw202
+b01,smart switches,usa,21/03/2023,newyork,513,sw303
+b02,router,united kingdom,30/03/2023,london,599,sw303
+c01,router,usa,31/1/2023,newyork,518,sw303
+c01,router,united kingdom,3/02/2023,london,468,sw303
+b01,smart switches,united kingdom,2/1/2023,london,486,sw202
+c01,router,india,28/02/2023,vellore,519,sw303
+a01,router,vietnam,29/02/2023,vietnam-city,467,sw202
+a02,router,india,29/02/2023,vit,403,sw303
+c01,router,usa,10/03/2023,newyork,518,sw101
+b02,router,united kingdom,5/02/2023,london,498,sw101
+b01,router,norway,29/01/2023,loften,462,sw101
+c02,router,vietnam,21/1/2023,vietnam-city,509,sw202
+b01,router,united kingdom,14/02/2023,london,401,sw303
+b02,smart switches,united kingdom,1/01/2023,london,539,sw303
+a02,router,vietnam,26/2/2023,vietnam-city,491,sw202
+c02,router,united kingdom,27/1/2023,london,491,sw303
+b01,smart switches,vietnam,21/01/2023,vietnam-city,489,sw303
+b01,smart switches,usa,3/2/2023,california,421,sw303
+b01,smart switches,norway,23/02/2023,loften,456,sw202
+b01,smart switches,vietnam,17/2/2023,vietnam-city,581,sw202
+c01,router,vietnam,10/02/2023,vietnam-city,559,sw202
+c01,smart switches,vietnam,6/01/2023,vietnam-city,535,sw303
+a02,router,united kingdom,26/01/2023,london,564,sw303
+c02,router,united kingdom,7/2/2023,london,562,sw202
+b02,smart switches,vietnam,6/01/2023,vietnam-city,558,sw202
+c02,smart switches,norway,24/3/2023,loften,571,sw303
+c01,smart switches,usa,13/1/2023,california,412,sw303
+a01,smart switches,united kingdom,27/1/2023,london,485,sw101
+b02,router,india,21/02/2023,vellore,583,sw202
+b01,router,india,9/2/2023,vit,501,sw202
+a02,router,norway,1/03/2023,loften,460,sw101
+c01,smart switches,usa,13/02/2023,newyork,554,sw202
+c02,router,usa,13/3/2023,california,553,sw101
+b01,smart switches,vietnam,17/2/2023,vietnam-city,502,sw303
+c01,router,norway,11/02/2023,loften,545,sw202
+c02,router,usa,24/02/2023,newyork,520,sw303
+b02,router,united kingdom,30/2/2023,london,418,sw101
+a01,router,united kingdom,14/1/2023,london,411,sw101
+b02,smart switches,india,28/02/2023,vellore,441,sw101
+c01,router,india,9/2/2023,vit,428,sw101
+a01,smart switches,norway,15/3/2023,loften,406,sw202
+a02,router,norway,28/2/2023,loften,564,sw101
+c01,smart switches,norway,14/3/2023,loften,483,sw202
+c02,router,united kingdom,9/3/2023,london,466,sw202
+b02,smart switches,norway,17/01/2023,loften,536,sw303
+c02,smart switches,usa,2/01/2023,california,475,sw101
+b01,router,norway,7/03/2023,loften,490,sw101
+c02,smart switches,united kingdom,31/3/2023,london,413,sw202
+a01,smart switches,vietnam,30/1/2023,vietnam-city,450,sw303
+c02,router,usa,1/01/2023,newyork,475,sw101
+c02,router,united kingdom,10/3/2023,london,486,sw202
+c02,smart switches,norway,11/2/2023,loften,593,sw202
+b01,router,india,1/3/2023,vit,456,sw303

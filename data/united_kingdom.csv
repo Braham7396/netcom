@@ -1,0 +1,193 @@
+machine model,machine type,delivery date,delivery site,price,software version
+c01,router,31/02/2023,london,400,sw303
+a01,router,12/01/2023,london,415,sw303
+b01,router,17/02/2023,london,457,sw101
+a02,router,10/3/2023,london,575,sw303
+a01,router,23/03/2023,london,447,sw303
+c02,router,25/2/2023,london,418,sw202
+a02,router,1/1/2023,london,428,sw303
+a02,smart switches,30/02/2023,london,527,sw202
+a01,router,20/02/2023,london,546,sw202
+b01,router,13/3/2023,london,409,sw101
+b01,smart switches,4/1/2023,london,522,sw101
+c02,smart switches,15/2/2023,london,502,sw101
+a01,router,20/02/2023,london,552,sw303
+b01,router,31/1/2023,london,571,sw101
+c01,router,19/03/2023,london,553,sw303
+a01,router,8/03/2023,london,420,sw202
+b02,router,4/02/2023,london,597,sw101
+a01,smart switches,14/02/2023,london,525,sw101
+b02,router,2/03/2023,london,529,sw101
+b01,router,21/02/2023,london,418,sw202
+b01,smart switches,18/03/2023,london,445,sw303
+a01,smart switches,1/02/2023,london,584,sw202
+a01,smart switches,3/1/2023,london,402,sw303
+a01,router,30/02/2023,london,540,sw202
+c01,router,19/03/2023,london,592,sw303
+b02,router,10/1/2023,london,504,sw101
+b01,smart switches,1/2/2023,london,452,sw101
+a02,smart switches,28/01/2023,london,531,sw202
+b01,smart switches,2/3/2023,london,501,sw303
+b01,router,28/3/2023,london,441,sw303
+b01,smart switches,24/3/2023,london,443,sw101
+c02,smart switches,6/2/2023,london,430,sw101
+a02,smart switches,12/01/2023,london,415,sw101
+c02,router,30/1/2023,london,533,sw101
+a01,smart switches,9/02/2023,london,548,sw303
+b01,smart switches,5/01/2023,london,529,sw202
+a01,router,2/03/2023,london,417,sw101
+c01,router,17/01/2023,london,552,sw101
+c02,smart switches,13/2/2023,london,519,sw303
+b01,smart switches,27/01/2023,london,417,sw303
+a02,smart switches,29/03/2023,london,470,sw101
+c02,router,13/2/2023,london,402,sw101
+b01,router,3/1/2023,london,523,sw101
+c02,smart switches,19/03/2023,london,441,sw303
+b02,router,8/03/2023,london,463,sw101
+c02,smart switches,25/01/2023,london,582,sw202
+b01,smart switches,11/2/2023,london,460,sw202
+a01,smart switches,29/3/2023,london,429,sw202
+a02,router,8/03/2023,london,495,sw101
+a02,smart switches,24/2/2023,london,440,sw101
+b02,router,24/02/2023,london,586,sw101
+c01,smart switches,4/2/2023,london,409,sw101
+b02,router,30/01/2023,london,570,sw303
+a01,router,10/2/2023,london,412,sw303
+a01,router,19/02/2023,london,557,sw101
+a02,smart switches,22/1/2023,london,558,sw202
+a01,router,12/01/2023,london,415,sw202
+c02,router,17/1/2023,london,454,sw202
+b02,smart switches,5/02/2023,london,442,sw303
+b01,smart switches,6/3/2023,london,420,sw303
+b02,smart switches,30/2/2023,london,536,sw202
+a01,smart switches,30/1/2023,london,427,sw303
+c01,router,4/2/2023,london,550,sw101
+a02,router,3/1/2023,london,565,sw101
+a02,smart switches,12/3/2023,london,464,sw101
+b01,router,7/03/2023,london,404,sw101
+c01,smart switches,27/02/2023,london,416,sw303
+c02,router,27/03/2023,london,497,sw303
+c02,smart switches,30/01/2023,london,419,sw202
+a01,smart switches,4/2/2023,london,508,sw101
+a02,smart switches,11/1/2023,london,512,sw303
+c02,router,23/02/2023,london,516,sw101
+c02,smart switches,15/01/2023,london,442,sw303
+c02,smart switches,26/01/2023,london,590,sw101
+a02,smart switches,28/03/2023,london,430,sw303
+b01,smart switches,18/2/2023,london,500,sw101
+b01,smart switches,25/2/2023,london,531,sw303
+b02,router,18/01/2023,london,546,sw202
+b02,smart switches,4/01/2023,london,583,sw202
+c02,smart switches,7/03/2023,london,520,sw303
+b02,smart switches,15/2/2023,london,520,sw101
+b02,smart switches,7/03/2023,london,412,sw202
+a01,router,23/1/2023,london,413,sw202
+c01,router,26/2/2023,london,416,sw303
+b01,router,15/01/2023,london,544,sw101
+a01,smart switches,10/01/2023,london,559,sw101
+c01,router,2/1/2023,london,491,sw101
+c02,router,15/02/2023,london,597,sw101
+b02,smart switches,7/2/2023,london,531,sw101
+a01,router,26/02/2023,london,467,sw101
+a02,smart switches,22/03/2023,london,466,sw202
+b01,smart switches,26/2/2023,london,442,sw303
+b02,smart switches,11/03/2023,london,401,sw101
+c02,router,12/02/2023,london,571,sw303
+c01,smart switches,14/03/2023,london,487,sw101
+b02,router,13/1/2023,london,431,sw303
+a01,smart switches,21/3/2023,london,446,sw202
+a01,router,19/02/2023,london,401,sw101
+a01,smart switches,16/01/2023,london,509,sw202
+b01,router,16/3/2023,london,512,sw101
+b02,smart switches,4/3/2023,london,498,sw303
+b02,smart switches,17/3/2023,london,490,sw101
+a01,smart switches,30/02/2023,london,496,sw101
+b01,router,20/03/2023,london,531,sw202
+c01,router,13/02/2023,london,442,sw202
+a02,router,12/2/2023,london,437,sw101
+c01,smart switches,15/1/2023,london,466,sw101
+b02,smart switches,3/03/2023,london,438,sw303
+c02,router,9/02/2023,london,425,sw303
+a01,smart switches,8/2/2023,london,438,sw101
+b02,router,6/1/2023,london,549,sw303
+a02,smart switches,15/1/2023,london,414,sw101
+a01,router,8/1/2023,london,443,sw202
+a01,router,4/2/2023,london,463,sw101
+b01,smart switches,24/3/2023,london,480,sw101
+b02,router,6/01/2023,london,440,sw303
+a02,smart switches,24/01/2023,london,435,sw101
+c01,smart switches,18/03/2023,london,450,sw202
+c02,router,17/1/2023,london,535,sw303
+c01,smart switches,28/03/2023,london,572,sw202
+c02,router,18/01/2023,london,432,sw303
+a02,smart switches,17/01/2023,london,499,sw303
+b02,smart switches,21/2/2023,london,580,sw101
+c01,smart switches,14/01/2023,london,468,sw101
+b02,router,27/01/2023,london,479,sw101
+b02,router,12/02/2023,london,522,sw202
+b02,router,2/01/2023,london,526,sw101
+a01,smart switches,13/3/2023,london,459,sw101
+b01,smart switches,1/1/2023,london,587,sw101
+b02,smart switches,22/03/2023,london,539,sw101
+b01,smart switches,13/2/2023,london,448,sw303
+b01,router,17/1/2023,london,432,sw303
+a01,smart switches,22/01/2023,london,514,sw101
+c01,smart switches,1/3/2023,london,461,sw202
+c01,router,30/02/2023,london,488,sw101
+b01,smart switches,11/03/2023,london,579,sw202
+a02,smart switches,6/03/2023,london,561,sw303
+a02,router,31/03/2023,london,591,sw202
+a01,router,30/2/2023,london,517,sw101
+a01,smart switches,27/02/2023,london,446,sw202
+a02,router,16/02/2023,london,402,sw303
+c02,router,15/01/2023,london,433,sw202
+b01,smart switches,14/01/2023,london,477,sw101
+c01,smart switches,11/3/2023,london,443,sw202
+b02,smart switches,29/2/2023,london,551,sw101
+b02,smart switches,20/2/2023,london,479,sw101
+b01,router,4/02/2023,london,412,sw101
+a01,router,5/03/2023,london,474,sw202
+c02,router,15/03/2023,london,557,sw101
+c01,smart switches,24/01/2023,london,464,sw101
+c02,router,17/2/2023,london,406,sw303
+c01,router,8/02/2023,london,546,sw303
+a01,router,21/2/2023,london,471,sw303
+b01,router,13/1/2023,london,586,sw202
+b01,smart switches,15/3/2023,london,400,sw202
+a02,router,4/2/2023,london,445,sw202
+b02,router,5/2/2023,london,479,sw101
+a02,smart switches,15/03/2023,london,498,sw101
+c02,router,3/1/2023,london,570,sw303
+b01,router,1/03/2023,london,469,sw202
+a01,router,24/02/2023,london,448,sw303
+c01,smart switches,12/2/2023,london,504,sw101
+c01,smart switches,12/03/2023,london,494,sw101
+a01,smart switches,3/2/2023,london,499,sw303
+c02,smart switches,10/1/2023,london,571,sw303
+c01,smart switches,26/03/2023,london,420,sw101
+b02,router,7/03/2023,london,461,sw303
+a01,smart switches,17/1/2023,london,460,sw303
+a01,router,4/2/2023,london,509,sw202
+c01,router,28/01/2023,london,447,sw101
+b01,router,13/1/2023,london,583,sw101
+a02,router,29/02/2023,london,401,sw202
+b01,router,11/02/2023,london,488,sw101
+a01,smart switches,19/1/2023,london,414,sw202
+a01,smart switches,4/2/2023,london,586,sw101
+c01,smart switches,30/01/2023,london,481,sw303
+c01,smart switches,1/02/2023,london,563,sw202
+b02,router,30/03/2023,london,599,sw303
+c01,router,3/02/2023,london,468,sw303
+b01,smart switches,2/1/2023,london,486,sw202
+b02,router,5/02/2023,london,498,sw101
+b01,router,14/02/2023,london,401,sw303
+b02,smart switches,1/01/2023,london,539,sw303
+c02,router,27/1/2023,london,491,sw303
+a02,router,26/01/2023,london,564,sw303
+c02,router,7/2/2023,london,562,sw202
+a01,smart switches,27/1/2023,london,485,sw101
+b02,router,30/2/2023,london,418,sw101
+a01,router,14/1/2023,london,411,sw101
+c02,router,9/3/2023,london,466,sw202
+c02,smart switches,31/3/2023,london,413,sw202
+c02,router,10/3/2023,london,486,sw202
